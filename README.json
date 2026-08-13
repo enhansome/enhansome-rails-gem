@@ -1,0 +1,2062 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "User"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Devise",
+          "description": "Devise is a flexible authentication solution for Rails based on Warden.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T17:32:32Z",
+            "owner": "heartcombo",
+            "repo": "devise",
+            "stars": 24354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clearance",
+          "description": "Rails authentication with email & password.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-16T18:42:45Z",
+            "owner": "thoughtbot",
+            "repo": "clearance",
+            "stars": 3736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devise token auth",
+          "description": "Token based authentication for Rails JSON APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-31T13:14:56Z",
+            "owner": "lynndylanhurley",
+            "repo": "devise_token_auth",
+            "stars": 3570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knock",
+          "description": "Seamless JWT authentication for Rails API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-03-21T22:06:07Z",
+            "owner": "nsarno",
+            "repo": "knock",
+            "stars": 2054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sorcery",
+          "description": "Magical Authentication for Rails. Supports ActiveRecord, DataMapper, Mongoid and MongoMapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-08T10:34:03Z",
+            "owner": "Sorcery",
+            "repo": "sorcery",
+            "stars": 1465
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pundit",
+          "description": "Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-02T10:26:35Z",
+            "owner": "varvet",
+            "repo": "pundit",
+            "stars": 8520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cancancan",
+          "description": "Continuation of CanCan, the authorization Gem for Ruby on Rails.CanCan is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access. All permissions are defined in a single location (the Ability class) and not duplicated across controllers, views, and database queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T13:29:52Z",
+            "owner": "CanCanCommunity",
+            "repo": "cancancan",
+            "stars": 5688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rolify",
+          "description": "Role management library with resource scoping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-01-24T20:26:03Z",
+            "owner": "RolifyCommunity",
+            "repo": "rolify",
+            "stars": 3176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "acl9",
+          "description": "Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-03-26T22:39:41Z",
+            "owner": "be9",
+            "repo": "acl9",
+            "stars": 849
+          }
+        }
+      ],
+      "title": "Authorization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "omniauth-google-oauth2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-11T00:57:06Z",
+            "owner": "zquestz",
+            "repo": "omniauth-google-oauth2",
+            "stars": 1523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omniauth-facebook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T23:56:44Z",
+            "owner": "simi",
+            "repo": "omniauth-facebook",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omniauth-twitter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-06T10:22:45Z",
+            "owner": "arunagw",
+            "repo": "omniauth-twitter",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omniauth-github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-05-25T01:28:31Z",
+            "owner": "omniauth",
+            "repo": "omniauth-github",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omniauth-weibo-oauth2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-07-12T04:37:36Z",
+            "owner": "beenhero",
+            "repo": "omniauth-weibo-oauth2",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "omniauth-linkedin-oauth2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-08-09T11:04:25Z",
+            "owner": "decioferreira",
+            "repo": "omniauth-linkedin-oauth2",
+            "stars": 117
+          }
+        }
+      ],
+      "title": "Omniauth"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PaperTrail",
+          "description": "PaperTrail lets you track changes to your models' data. It's good for auditing or versioning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-08T14:55:46Z",
+            "owner": "paper-trail-gem",
+            "repo": "paper_trail",
+            "stars": 7029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FriendlyId",
+          "description": "FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T06:18:35Z",
+            "owner": "norman",
+            "repo": "friendly_id",
+            "stars": 6227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AASM",
+          "description": "State machines for Ruby classes (plain Ruby, Rails Active Record, Mongoid).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-05T05:51:32Z",
+            "owner": "aasm",
+            "repo": "aasm",
+            "stars": 5231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "public_activity",
+          "description": "Easy activity tracking for models - similar to Github's Public Activity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-08T09:44:50Z",
+            "owner": "public-activity",
+            "repo": "public_activity",
+            "stars": 2990
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paranoia",
+          "description": "ActiveRecord plugin allowing you to hide and restore records without actually deleting them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-11-07T11:11:54Z",
+            "owner": "rubysherpas",
+            "repo": "paranoia",
+            "stars": 2917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "globalize",
+          "description": "Rails I18n de-facto standard library for ActiveRecord model/data translation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-06T22:36:59Z",
+            "owner": "globalize",
+            "repo": "globalize",
+            "stars": 2157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "counter_culture",
+          "description": "Turbo-charged counter caches for your Rails app. Huge improvements over the Rails standard counter caches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-08T20:25:19Z",
+            "owner": "magnusvk",
+            "repo": "counter_culture",
+            "stars": 2119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enumerize",
+          "description": "Enumerated attributes with I18n and ActiveRecord/Mongoid support. It can be integrated with Simple Form.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-04T12:22:05Z",
+            "owner": "brainspec",
+            "repo": "enumerize",
+            "stars": 1762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goldiloader",
+          "description": "Automatic ActiveRecord eager loading to reduce the number of database queries run by your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-19T14:22:43Z",
+            "owner": "salsify",
+            "repo": "goldiloader",
+            "stars": 1672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep_cloneable",
+          "description": "This gem gives every ActiveRecord::Base object the possibility to do a deep clone that includes user specified associations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-19T15:28:13Z",
+            "owner": "moiristo",
+            "repo": "deep_cloneable",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequenced",
+          "description": "Sequenced is a simple gem that generates scoped sequential IDs for ActiveRecord models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-11-02T00:28:48Z",
+            "owner": "derrickreimer",
+            "repo": "sequenced",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActionStore",
+          "description": "Store different kind of actions (Like, Follow, Star, Block ...) in one table via ActiveRecord Polymorphic Association.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-09-27T15:18:57Z",
+            "owner": "rails-engine",
+            "repo": "action-store",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "social_shares",
+          "description": "Check how many times url was shared in social networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-05-11T11:00:05Z",
+            "owner": "Timrael",
+            "repo": "social_shares",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Validates",
+          "description": "Validates provides collection of useful custom validators for Rails applications, including:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-01-13T11:02:51Z",
+            "owner": "kaize",
+            "repo": "validates",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "custom_counter_cache",
+          "description": "A simple approach to creating a custom counter cache that can be used across multiple models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-30T18:51:05Z",
+            "owner": "cedric",
+            "repo": "custom_counter_cache",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Tagging",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ActsAsTaggableOn",
+              "description": "A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-07T07:35:14Z",
+                "owner": "mbleigh",
+                "repo": "acts-as-taggable-on",
+                "stars": 4990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "closure_tree",
+              "description": "Easily and efficiently make your ActiveRecord models support hierarchies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-05T19:26:01Z",
+                "owner": "ClosureTree",
+                "repo": "closure_tree",
+                "stars": 1942
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Active Record"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chartkick",
+          "description": "Chartkick helps your to create beautiful Javascript charts with one line of Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-29T04:45:41Z",
+            "owner": "ankane",
+            "repo": "chartkick",
+            "stars": 6527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rails ERD",
+          "description": "Generate Entity-Relationship Diagrams for Rails applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-21T15:06:38Z",
+            "owner": "voormedia",
+            "repo": "rails-erd",
+            "stars": 4104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML::Pipeline",
+          "description": "GitHub HTML processing filters and utilities. This module includes a small framework for defining DOM based content filters and applying them to user provided content.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-02T02:52:35Z",
+            "owner": "gjtorikian",
+            "repo": "html-pipeline",
+            "stars": 2334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CKEditor",
+          "description": "CKEditor is a WYSIWYG text editor designed to simplify web content creation. It brings common word processing features directly to your web pages. Enhance your website experience with our community maintained editor. ckeditor.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-01-23T13:42:18Z",
+            "owner": "galetahub",
+            "repo": "ckeditor",
+            "stars": 2224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slack Notifier",
+          "description": "is a simple wrapper to send notifications to Slack webhooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-04-24T07:03:26Z",
+            "owner": "slack-notifier",
+            "repo": "slack-notifier",
+            "stars": 1489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spreadsheet",
+          "description": "Library is designed to read and write Spreadsheet Documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-21T14:39:37Z",
+            "owner": "zdavatz",
+            "repo": "spreadsheet",
+            "stars": 1150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parity",
+          "description": "Shell commands for development, staging, and production parity for Heroku apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-05-23T17:49:50Z",
+            "owner": "thoughtbot",
+            "repo": "parity",
+            "stars": 892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbrussh",
+          "description": "Airbrussh pretties up your SSHKit and Capistrano output",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-05T04:50:39Z",
+            "owner": "mattbrictson",
+            "repo": "airbrussh",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaminari",
+          "description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Rails 3 and 4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-01-26T19:53:56Z",
+            "owner": "amatsuda",
+            "repo": "kaminari",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grape",
+          "description": "Microframework to create REST-ful APIs in Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T03:43:35Z",
+            "owner": "ruby-grape",
+            "repo": "grape",
+            "stars": 9996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ActiveModel::Serializers",
+          "description": "Serializer brings convention over configuration to your JSON generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-08T16:12:19Z",
+            "owner": "rails-api",
+            "repo": "active_model_serializers",
+            "stars": 5342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rest-client",
+          "description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-05-19T10:18:13Z",
+            "owner": "rest-client",
+            "repo": "rest-client",
+            "stars": 5215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jbuilder",
+          "description": "Jbuilder gives you a simple DSL for declaring JSON structures that beats massaging giant hash structures. This is particularly helpful when the generation process is fraught with conditionals and loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-01T17:42:54Z",
+            "owner": "rails",
+            "repo": "jbuilder",
+            "stars": 4420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "has_scope",
+          "description": "Map incoming controller parameters to named scopes in your resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-27T12:50:52Z",
+            "owner": "heartcombo",
+            "repo": "has_scope",
+            "stars": 1732
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Documentation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Grape Swagger UI",
+              "description": "Display documentation that is generated using Grape Swagger.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T23:03:23Z",
+                "owner": "swagger-api",
+                "repo": "swagger-ui",
+                "stars": 28968
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Grape Swagger",
+              "description": "Autogenerate documentation on Grape API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-07T14:04:50Z",
+                "owner": "ruby-grape",
+                "repo": "grape-swagger",
+                "stars": 1101
+              }
+            }
+          ]
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Paperclip",
+          "description": "Easy file attachment management for ActiveRecord.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-07-13T17:57:58Z",
+            "owner": "thoughtbot",
+            "repo": "paperclip",
+            "stars": 9022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carrierwave",
+          "description": "Carrierwave is a classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "carrierwave_backgrounder",
+              "description": "Offload CarrierWave's image processing and storage to a background process using Delayed Job, Resque, Sidekiq, Qu, Queue Classic or Girl Friday.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Ruby",
+                "last_commit": "2026-03-02T18:28:42Z",
+                "owner": "lardawge",
+                "repo": "carrierwave_backgrounder",
+                "stars": 738
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CarrierWave ImageOptimizer",
+              "description": "This gem allows you to simply optimize CarrierWave images via jpegoptim or optipng using the image_optimizer gem.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2022-03-08T15:27:09Z",
+                "owner": "jtescher",
+                "repo": "carrierwave-imageoptimizer",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CarrierWave Crop",
+              "description": "Carrierwave extension to crop uploaded images using Jcrop plugin with preview.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2015-09-08T10:46:57Z",
+                "owner": "kirtithorat",
+                "repo": "carrierwave-crop",
+                "stars": 93
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T13:57:00Z",
+            "owner": "carrierwaveuploader",
+            "repo": "carrierwave",
+            "stars": 8781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fog",
+          "description": "Fog is the Ruby cloud services library, top to bottom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-11-19T13:42:48Z",
+            "owner": "fog",
+            "repo": "fog",
+            "stars": 4297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shrine",
+          "description": "File Attachment toolkit for Ruby applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-13T08:38:23Z",
+            "owner": "shrinerb",
+            "repo": "shrine",
+            "stars": 3286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniMagick",
+          "description": "MiniMagick is a ruby wrapper for ImageMagick or GraphicsMagick command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-06T06:18:24Z",
+            "owner": "minimagick",
+            "repo": "minimagick",
+            "stars": 2864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "refile",
+          "description": "Refile is a modern file upload library for Ruby applications. It is simple, yet powerful.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-07-01T17:43:36Z",
+            "owner": "refile",
+            "repo": "refile",
+            "stars": 2434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remotipart",
+          "description": "Rails jQuery file uploads via standard Rails \"remote: true\" forms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2021-03-23T13:16:38Z",
+            "owner": "JangoSteve",
+            "repo": "remotipart",
+            "stars": 998
+          }
+        }
+      ],
+      "title": "File Uploading"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "searchkick",
+          "description": "Intelligent search made easy with Rails and Elasticsearch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-24T06:10:34Z",
+            "owner": "ankane",
+            "repo": "searchkick",
+            "stars": 6719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ransack",
+          "description": "Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-31T20:24:55Z",
+            "owner": "activerecord-hackery",
+            "repo": "ransack",
+            "stars": 5862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elasticsearch-rails",
+          "description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-10-08T13:42:09Z",
+            "owner": "elastic",
+            "repo": "elasticsearch-rails",
+            "stars": 3083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sunspot",
+          "description": "Sunspot is a Ruby library for expressive, powerful interaction with the Solr search engine. Sunspot is built on top of the RSolr library, which provides a low-level interface for Solr interaction; Sunspot provides a simple, intuitive, expressive DSL backed by powerful features for indexing objects and searching for them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-30T07:17:13Z",
+            "owner": "sunspot",
+            "repo": "sunspot",
+            "stars": 2981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chewy",
+          "description": "High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T07:15:22Z",
+            "owner": "toptal",
+            "repo": "chewy",
+            "stars": 1902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pg_search",
+          "description": "pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL's full text search",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T20:39:42Z",
+            "owner": "Casecommons",
+            "repo": "pg_search",
+            "stars": 1575
+          }
+        }
+      ],
+      "title": "Searching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sidekiq",
+          "description": "Simple, efficient background processing for Ruby.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sidekiq-cron",
+              "description": "Scheduler / Cron for Sidekiq jobs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-05-27T14:26:21Z",
+                "owner": "sidekiq-cron",
+                "repo": "sidekiq-cron",
+                "stars": 1945
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sidetiq",
+              "description": "Recurring jobs for sidekiq.",
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "sidekiq-scheduler",
+              "description": "Lightweight job scheduler extension for Sidekiq",
+              "children": []
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T21:43:39Z",
+            "owner": "sidekiq",
+            "repo": "sidekiq",
+            "stars": 13553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resque",
+          "description": "Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-28T13:56:54Z",
+            "owner": "resque",
+            "repo": "resque",
+            "stars": 9482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whenever",
+          "description": "Whenever is a Ruby gem that provides a clear syntax for writing and deploying cron jobs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-01T22:45:54Z",
+            "owner": "javan",
+            "repo": "whenever",
+            "stars": 8862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Delayed Job",
+          "description": "Database based asynchronous priority queue system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-13T21:45:00Z",
+            "owner": "collectiveidea",
+            "repo": "delayed_job",
+            "stars": 4825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sucker Punch",
+          "description": "Sucker punch is a single-process Ruby asynchronous processing library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-24T00:47:08Z",
+            "owner": "brandonhilkert",
+            "repo": "sucker_punch",
+            "stars": 2631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rufus-Scheduler",
+          "description": "Rufus-scheduler is a Ruby gem for scheduling pieces of code (jobs). It understands running a job AT a certain time, IN a certain time, EVERY x time or simply via a CRON statement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T22:44:36Z",
+            "owner": "jmettraux",
+            "repo": "rufus-scheduler",
+            "stars": 2445
+          }
+        }
+      ],
+      "title": "Scheduled/Recurrence Jobs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simple Form",
+          "description": "Simple form aims to be as flexible as possible while helping you with powerful components to create your forms. The basic goal of Simple Form is to not touch your way of defining the layout, letting you find the better design for your eyes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-01T23:20:59Z",
+            "owner": "heartcombo",
+            "repo": "simple_form",
+            "stars": 8227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "formtastic",
+          "description": "Formtastic is a Rails FormBuilder DSL (with some other goodies) to make it far easier to create beautiful, semantically rich, syntactically awesome, readily stylable and wonderfully accessible HTML forms in your Rails applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-28T05:30:10Z",
+            "owner": "formtastic",
+            "repo": "formtastic",
+            "stars": 5214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cells",
+          "description": "Cells allow you to encapsulate parts of your UI into components into view models. View models, or cells, are simple ruby classes that can render templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-12-02T09:00:38Z",
+            "owner": "trailblazer",
+            "repo": "cells",
+            "stars": 3075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cocoon",
+          "description": "Dynamic nested forms using jQuery made easy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-08-08T14:11:26Z",
+            "owner": "nathanvda",
+            "repo": "cocoon",
+            "stars": 3072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meta-tags",
+          "description": "Search Engine Optimization (SEO) plugin for Ruby on Rails applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T00:29:27Z",
+            "owner": "kpumuk",
+            "repo": "meta-tags",
+            "stars": 2799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nested Form",
+          "description": "This is a Rails gem for conveniently manage multiple nested models in a single form. It does so in an unobtrusive way through jQuery or Prototype. It can also be integrated with Simple Form.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-12-11T21:47:06Z",
+            "owner": "ryanb",
+            "repo": "nested_form",
+            "stars": 1780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "active_link_to",
+          "description": "active_link_to adds css 'active' class to your links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-04-07T09:40:49Z",
+            "owner": "comfy",
+            "repo": "active_link_to",
+            "stars": 854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n Country Code Select",
+          "description": "I18n Country Code Select Form Helper for Rails 3 & 4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-02-14T07:46:05Z",
+            "owner": "onomojo",
+            "repo": "i18n_country_select",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subdivision Select",
+          "description": "A Rails plugin to populate a state/province select box from country_select.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-01-22T10:53:08Z",
+            "owner": "cllns",
+            "repo": "subdivision_select",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "View Helper"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dotenv",
+          "description": "Dotenv is a gem that allows you to set your environment variables in .env file, and it will load it in to ENV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T16:42:21Z",
+            "owner": "bkeepers",
+            "repo": "dotenv",
+            "stars": 6763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Figaro",
+          "description": "Figaro is very simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-06-29T16:07:40Z",
+            "owner": "laserlemon",
+            "repo": "figaro",
+            "stars": 3746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Config",
+          "description": "Multi-environment YAML style configurations that helps easily manage environment specific settings in an easy and usable manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-28T17:41:32Z",
+            "owner": "rubyconfig",
+            "repo": "config",
+            "stars": 2169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opsworks-dotenv",
+          "description": "Opsworks-dotenv let you configure the environment for you Rails application using OpsWorks, Chef and Dotenv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-02-06T17:07:56Z",
+            "owner": "mikamai",
+            "repo": "opsworks-dotenv",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Environment Variables"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RailsAdmin",
+          "description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-08T07:55:45Z",
+            "owner": "railsadminteam",
+            "repo": "rails_admin",
+            "stars": 7958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "administrate",
+          "description": "A Rails engine that helps you put together a super-flexible admin dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T20:04:20Z",
+            "owner": "thoughtbot",
+            "repo": "administrate",
+            "stars": 6032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trestle",
+          "description": "A modern, responsive admin framework for Ruby on Rails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-09-25T12:30:55Z",
+            "owner": "TrestleAdmin",
+            "repo": "trestle",
+            "stars": 1993
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "ActiveAdmin",
+          "description": "ActiveAdmin is a administration framework for Ruby on Rails applications.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "active_skin",
+              "description": "Flat skin for active admin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Sass",
+                "last_commit": "2023-01-20T11:20:20Z",
+                "owner": "SoftwareBrothers",
+                "repo": "active_skin",
+                "stars": 423
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "Typus",
+          "description": "Typus is a control panel for Ruby on Rails applications to allow trusted users edit structured content.",
+          "children": []
+        }
+      ],
+      "title": "Admin Panel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ahoy",
+          "description": "Ahoy provides a solid foundation to track visits and events in Ruby, JavaScript, and native apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-29T04:47:49Z",
+            "owner": "ankane",
+            "repo": "ahoy",
+            "stars": 4482
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lograge",
+          "description": "An attempt to tame Rails' default policy to log everything.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-08T15:18:58Z",
+            "owner": "roidrage",
+            "repo": "lograge",
+            "stars": 3575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Impressionist",
+          "description": "Impressionist can log page impressions (technically action impressions), but it is not limited to that. You can log impressions multiple times per request. And you can also attach it to a model. The goal of this project is to provide customizable stats that are immediately accessible in your application as opposed to using Google Analytics and pulling data using their API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-08T22:01:16Z",
+            "owner": "charlotte-ruby",
+            "repo": "impressionist",
+            "stars": 1528
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "terminal-notifier",
+          "description": "terminal-notifier is a command-line tool to send Mac OS X User Notifications, which are available in Mac OS X 10.8 and higher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-11-02T14:24:58Z",
+            "owner": "julienXX",
+            "repo": "terminal-notifier",
+            "stars": 7282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better Errors",
+          "description": "Better errors replaces the standard Rails error page with a much better and more useful error page.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "If you would like to use Better Errors' advanced features (REPL, local/instance variable inspection, pretty stack frame names), you need to add the binding_ _of__caller",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-02-15T13:09:42Z",
+                "owner": "banister",
+                "repo": "binding_of_caller",
+                "stars": 673
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-07-09T08:00:44Z",
+            "owner": "BetterErrors",
+            "repo": "better_errors",
+            "stars": 6863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome_print",
+          "description": "Awesome Print is a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-08-15T20:03:46Z",
+            "owner": "awesome-print",
+            "repo": "awesome_print",
+            "stars": 4082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RailsPanel",
+          "description": "RailsPanel is a Chrome extension for Rails development that will end your tailing of development.log.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T21:45:10Z",
+            "owner": "dejan",
+            "repo": "rails_panel",
+            "stars": 3869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "letter_opener",
+          "description": "Preview email in the default browser instead of sending it. This means you do not need to set up email delivery in your development environment, and you no longer need to worry about accidentally sending a test email to someone else's address.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-25T13:24:46Z",
+            "owner": "ryanb",
+            "repo": "letter_opener",
+            "stars": 3840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "byebug",
+          "description": "Byebug is a simple to use, feature rich debugger for Ruby 2. It uses the new TracePoint API for execution control and the new Debug Inspector API for call stack navigation, so it doesn't depend on internal core sources.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pry-byebug",
+              "description": "Pry navigation commands via byebug.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-05-18T15:11:27Z",
+                "owner": "deivid-rodriguez",
+                "repo": "pry-byebug",
+                "stars": 2031
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-27T03:09:11Z",
+            "owner": "deivid-rodriguez",
+            "repo": "byebug",
+            "stars": 3349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spring",
+          "description": "Spring is a Rails application preloader. It speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-30T16:30:38Z",
+            "owner": "rails",
+            "repo": "spring",
+            "stars": 2814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-footnotes",
+          "description": "Rails footnotes displays footnotes in your application for easy debugging, such as sessions, request parameters, cookies, filter chain, routes, queries, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T21:01:27Z",
+            "owner": "indirect",
+            "repo": "rails-footnotes",
+            "stars": 1522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "web-console",
+          "description": "Web Console is a debugging tool for your Ruby on Rails applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-23T19:32:06Z",
+            "owner": "rails",
+            "repo": "web-console",
+            "stars": 1436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pry-rails",
+          "description": "Avoid repeating yourself, use pry-rails instead of copying the initializer to every rails project. This is a small gem which causes rails console to open pry. It therefore depends on pry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-20T01:31:49Z",
+            "owner": "pry",
+            "repo": "pry-rails",
+            "stars": 1361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "g",
+          "description": "The Kernel.g that works like Kernel.p by using terminal-notifier or growl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2013-07-31T16:30:17Z",
+            "owner": "jugyo",
+            "repo": "g",
+            "stars": 117
+          }
+        }
+      ],
+      "title": "Debug"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RuboCop",
+          "description": "Rubocop is a Ruby static code analyzer. Out of the box it will enforce many of the guidelines outlined in the community Ruby Style Guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T06:11:02Z",
+            "owner": "rubocop",
+            "repo": "rubocop",
+            "stars": 12900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pronto",
+          "description": "Quick automated code review of your changes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-04T04:55:10Z",
+            "owner": "prontolabs",
+            "repo": "pronto",
+            "stars": 2672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metric Fu",
+          "description": "A fist full of code metrics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-02-27T06:07:37Z",
+            "owner": "metricfu",
+            "repo": "metric_fu",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rails Best Practice",
+          "description": "Rails best practice is a code metric tool to check the quality of rails codes.",
+          "children": []
+        }
+      ],
+      "title": "Coding Style"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Capybara",
+          "description": "Capybara helps you test web applications by simulating how a real user would interact with your app. And drivers:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "poltergeist",
+              "description": "Poltergeist allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Ruby",
+                "last_commit": "2019-09-27T15:03:45Z",
+                "owner": "teampoltergeist",
+                "repo": "poltergeist",
+                "stars": 2484
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capybara-webkit",
+              "description": "Capybara-webkit is a capybara driver that uses Webkit via QtWebkit.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Ruby",
+                "last_commit": "2020-03-03T15:09:01Z",
+                "owner": "thoughtbot",
+                "repo": "capybara-webkit",
+                "stars": 1953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "page-object",
+              "description": "Page-object is a simple gem that assists in creating flexible page objects for testing browser based applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2021-05-03T01:39:19Z",
+                "owner": "cheezy",
+                "repo": "page-object",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "selenium-webdriver",
+              "description": "Selenium-webdriver provides ruby bindings for WebDriver.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2015-12-17T21:11:53Z",
+                "owner": "vertis",
+                "repo": "selenium-webdriver",
+                "stars": 25
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-13T14:52:49Z",
+            "owner": "teamcapybara",
+            "repo": "capybara",
+            "stars": 10169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "factory_bot",
+          "description": "Factory_bot is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-24T20:22:06Z",
+            "owner": "thoughtbot",
+            "repo": "factory_bot",
+            "stars": 8183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VCR",
+          "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-23T06:33:13Z",
+            "owner": "vcr",
+            "repo": "vcr",
+            "stars": 6078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rspec-rails",
+          "description": "Rspec-rails is a testing framework for Rails 3.x and 4.x.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-23T20:40:16Z",
+            "owner": "rspec",
+            "repo": "rspec-rails",
+            "stars": 5272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleCov",
+          "description": "SimpleCov is a code coverage analysis tool for Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T19:51:02Z",
+            "owner": "simplecov-ruby",
+            "repo": "simplecov",
+            "stars": 4915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shoulda-matchers",
+          "description": "Shoulda-matchers provides serveral matchers for testing common Rails functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T13:14:13Z",
+            "owner": "thoughtbot",
+            "repo": "shoulda-matchers",
+            "stars": 3583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timecop",
+          "description": "A gem providing \"time travel\" and \"time freezing\" capabilities, making it dead simple to test time-dependent code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-12T15:27:41Z",
+            "owner": "travisjeffery",
+            "repo": "timecop",
+            "stars": 3427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "factory_bot_rails",
+          "description": "Factory_bot_rails provides Rails integration for factory_bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-21T12:19:09Z",
+            "owner": "thoughtbot",
+            "repo": "factory_bot_rails",
+            "stars": 3138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Database Cleaner",
+          "description": "Database Cleaner is a set of strategies for cleaning your database in Ruby.Support ActiveRecord, DataMapper, Sequel, MongoMapper, Mongoid, CouchPotato, Ohm and Redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-01T18:01:14Z",
+            "owner": "DatabaseCleaner",
+            "repo": "database_cleaner",
+            "stars": 2963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ResponseCodeMatchers",
+          "description": "ResponseCodeMatchers provides rspec matchers to match http response code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-06-05T19:53:50Z",
+            "owner": "r7kamura",
+            "repo": "response_code_matchers",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "factory_factory_girl",
+          "description": "FactoryFactoryGirl lets you generate factory files more efficiently with naming rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-08-25T15:32:34Z",
+            "owner": "st0012",
+            "repo": "factory_factory_girl",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "brakeman",
+          "description": "Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T22:38:39Z",
+            "owner": "presidentbeef",
+            "repo": "brakeman",
+            "stars": 7261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secure Headers",
+          "description": "Secure Headers will automatically apply several headers that are related to security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-27T15:57:10Z",
+            "owner": "github",
+            "repo": "secure_headers",
+            "stars": 3233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bundle-audit",
+          "description": "bundler-audit is a patch-level verification tool for Bundler which checks for vulnerable versions of gems and insecure gem sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-31T17:44:47Z",
+            "owner": "rubysec",
+            "repo": "bundler-audit",
+            "stars": 2758
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Capistrano",
+          "description": "Remote multi-server automation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-19T03:53:28Z",
+            "owner": "capistrano",
+            "repo": "capistrano",
+            "stars": 12980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rack Attack",
+          "description": "Rack middleware to blocking & throttling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-02T20:27:09Z",
+            "owner": "rack",
+            "repo": "rack-attack",
+            "stars": 5760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mina",
+          "description": "fast deployer and server automation tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-08-01T23:49:40Z",
+            "owner": "mina-deploy",
+            "repo": "mina",
+            "stars": 4355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "production_rails",
+          "description": "Best practices for running Rails in production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-31T20:38:05Z",
+            "owner": "ankane",
+            "repo": "production_rails",
+            "stars": 2320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responders",
+          "description": "A set of Rails responders to dry up your application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-06T20:25:44Z",
+            "owner": "heartcombo",
+            "repo": "responders",
+            "stars": 2057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slowpoke",
+          "description": "Rack::Timeout is great. Slowpoke makes it better.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-04T20:48:50Z",
+            "owner": "ankane",
+            "repo": "slowpoke",
+            "stars": 395
+          }
+        }
+      ],
+      "title": "Production"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Errbit",
+          "description": "Open source notifier gem compliant with Airbrake.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T12:06:36Z",
+            "owner": "errbit",
+            "repo": "errbit",
+            "stars": 4270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbrake",
+          "description": "Notifier gem for integrating apps with Airbrake",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-12-21T01:08:22Z",
+            "owner": "airbrake",
+            "repo": "airbrake",
+            "stars": 986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rollbar",
+          "description": "Exception tracking and logging from Ruby to Rollbar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-06T20:10:28Z",
+            "owner": "rollbar",
+            "repo": "rollbar-gem",
+            "stars": 482
+          }
+        }
+      ],
+      "title": "Error Logging"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:49.389Z",
+    "original_repository": "hothero/awesome-rails-gem",
+    "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",
+    "enhanced_repository": "enhansome/enhansome-rails-gem",
+    "enhanced_repository_description": null,
+    "title": "Awesome Rails Gem with stars"
+  }
+}

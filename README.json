@@ -630,7 +630,7 @@
             "last_commit": "2026-08-09T03:43:35Z",
             "owner": "ruby-grape",
             "repo": "grape",
-            "stars": 9996
+            "stars": 9995
           }
         },
         {
@@ -658,7 +658,7 @@
             "last_commit": "2024-05-19T10:18:13Z",
             "owner": "rest-client",
             "repo": "rest-client",
-            "stars": 5215
+            "stars": 5214
           }
         },
         {
@@ -702,10 +702,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-12T23:03:23Z",
+                "last_commit": "2026-08-13T08:06:59Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28968
+                "stars": 28969
               }
             },
             {
@@ -888,7 +888,7 @@
             "last_commit": "2026-07-24T06:10:34Z",
             "owner": "ankane",
             "repo": "searchkick",
-            "stars": 6719
+            "stars": 6720
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2026-06-22T16:42:21Z",
             "owner": "bkeepers",
             "repo": "dotenv",
-            "stars": 6763
+            "stars": 6764
           }
         },
         {
@@ -1364,7 +1364,7 @@
             "last_commit": "2026-06-29T04:47:49Z",
             "owner": "ankane",
             "repo": "ahoy",
-            "stars": 4482
+            "stars": 4483
           }
         },
         {
@@ -1412,7 +1412,7 @@
             "last_commit": "2025-11-02T14:24:58Z",
             "owner": "julienXX",
             "repo": "terminal-notifier",
-            "stars": 7282
+            "stars": 7281
           }
         },
         {
@@ -1675,7 +1675,7 @@
                 "last_commit": "2020-03-03T15:09:01Z",
                 "owner": "thoughtbot",
                 "repo": "capybara-webkit",
-                "stars": 1953
+                "stars": 1952
               }
             },
             {
@@ -2052,7 +2052,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:49.389Z",
+    "last_updated": "2026-08-13T10:39:05.519Z",
     "original_repository": "hothero/awesome-rails-gem",
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",
     "enhanced_repository": "enhansome/enhansome-rails-gem",

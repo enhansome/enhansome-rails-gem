@@ -167,7 +167,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 ## Admin Panel
 
 * [RailsAdmin](https://github.com/sferik/rails_admin) ⭐ 7,957 | 🐛 202 | 🌐 Ruby | 📅 2026-08-08 - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.
-* [administrate](https://github.com/thoughtbot/administrate) ⭐ 6,032 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-12 - A Rails engine that helps you put together a super-flexible admin dashboard.
+* [administrate](https://github.com/thoughtbot/administrate) ⭐ 6,032 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-19 - A Rails engine that helps you put together a super-flexible admin dashboard.
 * [Trestle](https://github.com/TrestleAdmin/trestle) ⭐ 1,992 | 🐛 122 | 🌐 Ruby | 📅 2025-09-25 - A modern, responsive admin framework for Ruby on Rails
 * [ActiveAdmin](http://activeadmin.info) - ActiveAdmin is a administration framework for Ruby on Rails applications.
   * [active\_skin](https://github.com/rstgroup/active_skin) ⭐ 423 | 🐛 17 | 🌐 Sass | 📅 2023-01-20: Flat skin for active admin.
@@ -211,8 +211,8 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
   * [selenium-webdriver](https://github.com/vertis/selenium-webdriver) ⭐ 25 | 🐛 3 | 🌐 Ruby | 📅 2015-12-17 - Selenium-webdriver provides ruby bindings for WebDriver.
 * [factory\_bot](https://github.com/thoughtbot/factory_bot) ⭐ 8,170 | 🐛 81 | 🌐 Ruby | 📅 2026-07-24 - Factory\_bot is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin\_user, and so on), including factory inheritance.
 * [VCR](https://github.com/vcr/vcr) ⭐ 6,079 | 🐛 87 | 🌐 Ruby | 📅 2026-06-23 - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
-* [rspec-rails](https://github.com/rspec/rspec-rails) ⭐ 5,272 | 🐛 64 | 🌐 Ruby | 📅 2026-08-17 - Rspec-rails is a testing framework for Rails 3.x and 4.x.
-* [SimpleCov](https://github.com/colszowka/simplecov) ⭐ 4,919 | 🐛 11 | 🌐 Ruby | 📅 2026-08-19 - SimpleCov is a code coverage analysis tool for Ruby.
+* [rspec-rails](https://github.com/rspec/rspec-rails) ⭐ 5,272 | 🐛 65 | 🌐 Ruby | 📅 2026-08-19 - Rspec-rails is a testing framework for Rails 3.x and 4.x.
+* [SimpleCov](https://github.com/colszowka/simplecov) ⭐ 4,919 | 🐛 7 | 🌐 Ruby | 📅 2026-08-19 - SimpleCov is a code coverage analysis tool for Ruby.
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) ⭐ 3,584 | 🐛 42 | 🌐 Ruby | 📅 2026-08-10 - Shoulda-matchers provides serveral matchers for testing common Rails functionality.
 * [Timecop](https://github.com/travisjeffery/timecop) ⭐ 3,427 | 🐛 11 | 🌐 Ruby | 📅 2026-04-12 - A gem providing "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
 * [factory\_bot\_rails](https://github.com/thoughtbot/factory_bot_rails) ⭐ 3,137 | 🐛 8 | 🌐 Ruby | 📅 2026-07-21 - Factory\_bot\_rails provides Rails integration for factory\_bot.
@@ -237,7 +237,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Error Logging
 
-* [Errbit](https://github.com/errbit/errbit) ⭐ 4,271 | 🐛 127 | 🌐 Ruby | 📅 2026-08-18 - Open source notifier gem compliant with Airbrake.
+* [Errbit](https://github.com/errbit/errbit) ⭐ 4,271 | 🐛 128 | 🌐 Ruby | 📅 2026-08-19 - Open source notifier gem compliant with Airbrake.
 * [Airbrake](https://github.com/airbrake/airbrake) ⭐ 985 | 🐛 20 | 🌐 Ruby | 📅 2024-12-21 - Notifier gem for integrating apps with Airbrake
 * [Rollbar](https://github.com/rollbar/rollbar-gem) ⭐ 482 | 🐛 44 | 🌐 Ruby | 📅 2026-05-06 - Exception tracking and logging from Ruby to Rollbar.
 

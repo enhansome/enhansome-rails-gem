@@ -1378,7 +1378,7 @@
             "archived": false,
             "id": 33739333,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T20:04:20Z",
+            "last_commit": "2026-08-19T11:23:58Z",
             "owner": "thoughtbot",
             "repo": "administrate",
             "stars": 6032
@@ -1690,7 +1690,7 @@
             "archived": false,
             "id": 4095287,
             "language": "Ruby",
-            "last_commit": "2026-08-19T05:23:33Z",
+            "last_commit": "2026-08-19T12:46:17Z",
             "owner": "rubocop",
             "repo": "rubocop",
             "stars": 12899
@@ -1847,7 +1847,7 @@
             "archived": false,
             "id": 447184,
             "language": "Ruby",
-            "last_commit": "2026-08-17T23:15:52Z",
+            "last_commit": "2026-08-19T11:58:51Z",
             "owner": "rspec",
             "repo": "rspec-rails",
             "stars": 5272
@@ -1862,7 +1862,7 @@
             "archived": false,
             "id": 839336,
             "language": "Ruby",
-            "last_commit": "2026-08-19T01:58:10Z",
+            "last_commit": "2026-08-19T12:38:19Z",
             "owner": "simplecov-ruby",
             "repo": "simplecov",
             "stars": 4919
@@ -2121,7 +2121,7 @@
             "archived": false,
             "id": 816197,
             "language": "Ruby",
-            "last_commit": "2026-08-18T12:05:49Z",
+            "last_commit": "2026-08-19T12:06:21Z",
             "owner": "errbit",
             "repo": "errbit",
             "stars": 4271
@@ -2162,8 +2162,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:00:11.050Z",
+    "last_updated": "2026-08-19T12:47:14.590Z",
     "original_repository": "hothero/awesome-rails-gem",
+    "original_repository_id": 27949922,
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",
     "enhanced_repository": "enhansome/enhansome-rails-gem",
     "enhanced_repository_description": null,

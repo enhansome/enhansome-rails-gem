@@ -1,240 +1,259 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Devise",
+              "description": "Devise is a flexible authentication solution for Rails based on Warden.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308770,
+                "language": "Ruby",
+                "last_commit": "2026-06-22T17:32:32Z",
+                "owner": "heartcombo",
+                "repo": "devise",
+                "stars": 24354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clearance",
+              "description": "Rails authentication with email & password.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56125,
+                "language": "Ruby",
+                "last_commit": "2026-07-16T18:42:45Z",
+                "owner": "thoughtbot",
+                "repo": "clearance",
+                "stars": 3736
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Devise token auth",
+              "description": "Token based authentication for Rails JSON APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21333814,
+                "language": "Ruby",
+                "last_commit": "2026-07-31T13:14:56Z",
+                "owner": "lynndylanhurley",
+                "repo": "devise_token_auth",
+                "stars": 3571
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Knock",
+              "description": "Seamless JWT authentication for Rails API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39015905,
+                "language": "Ruby",
+                "last_commit": "2021-03-21T22:06:07Z",
+                "owner": "nsarno",
+                "repo": "knock",
+                "stars": 2054
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sorcery",
+              "description": "Magical Authentication for Rails. Supports ActiveRecord, DataMapper, Mongoid and MongoMapper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68418199,
+                "language": "Ruby",
+                "last_commit": "2026-07-08T10:34:03Z",
+                "owner": "Sorcery",
+                "repo": "sorcery",
+                "stars": 1465
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Authentication"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pundit",
+              "description": "Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6529205,
+                "language": "Ruby",
+                "last_commit": "2026-08-02T10:26:35Z",
+                "owner": "varvet",
+                "repo": "pundit",
+                "stars": 8522
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cancancan",
+              "description": "Continuation of CanCan, the authorization Gem for Ruby on Rails.CanCan is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access. All permissions are defined in a single location (the Ability class) and not duplicated across controllers, views, and database queries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16994115,
+                "language": "Ruby",
+                "last_commit": "2026-08-09T13:29:52Z",
+                "owner": "CanCanCommunity",
+                "repo": "cancancan",
+                "stars": 5688
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rolify",
+              "description": "Role management library with resource scoping.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1844503,
+                "language": "Ruby",
+                "last_commit": "2026-01-24T20:26:03Z",
+                "owner": "RolifyCommunity",
+                "repo": "rolify",
+                "stars": 3177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "acl9",
+              "description": "Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100181,
+                "language": "Ruby",
+                "last_commit": "2025-03-26T22:39:41Z",
+                "owner": "be9",
+                "repo": "acl9",
+                "stars": 849
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Authorization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "omniauth-google-oauth2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2704356,
+                "language": "Ruby",
+                "last_commit": "2026-06-11T00:57:06Z",
+                "owner": "zquestz",
+                "repo": "omniauth-google-oauth2",
+                "stars": 1523
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omniauth-facebook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2580835,
+                "language": "Ruby",
+                "last_commit": "2026-08-11T23:56:44Z",
+                "owner": "simi",
+                "repo": "omniauth-facebook",
+                "stars": 1267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omniauth-twitter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2685821,
+                "language": "Ruby",
+                "last_commit": "2026-07-06T10:22:45Z",
+                "owner": "arunagw",
+                "repo": "omniauth-twitter",
+                "stars": 577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omniauth-github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2662957,
+                "language": "Ruby",
+                "last_commit": "2023-05-25T01:28:31Z",
+                "owner": "omniauth",
+                "repo": "omniauth-github",
+                "stars": 464
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omniauth-weibo-oauth2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3714158,
+                "language": "Ruby",
+                "last_commit": "2025-07-12T04:37:36Z",
+                "owner": "beenhero",
+                "repo": "omniauth-weibo-oauth2",
+                "stars": 134
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "omniauth-linkedin-oauth2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8525312,
+                "language": "Ruby",
+                "last_commit": "2024-08-09T11:04:25Z",
+                "owner": "decioferreira",
+                "repo": "omniauth-linkedin-oauth2",
+                "stars": 117
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Omniauth"
+        }
+      ],
       "title": "User"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Devise",
-          "description": "Devise is a flexible authentication solution for Rails based on Warden.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-06-22T17:32:32Z",
-            "owner": "heartcombo",
-            "repo": "devise",
-            "stars": 24354
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clearance",
-          "description": "Rails authentication with email & password.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-16T18:42:45Z",
-            "owner": "thoughtbot",
-            "repo": "clearance",
-            "stars": 3736
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Devise token auth",
-          "description": "Token based authentication for Rails JSON APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-31T13:14:56Z",
-            "owner": "lynndylanhurley",
-            "repo": "devise_token_auth",
-            "stars": 3571
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Knock",
-          "description": "Seamless JWT authentication for Rails API.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2021-03-21T22:06:07Z",
-            "owner": "nsarno",
-            "repo": "knock",
-            "stars": 2054
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sorcery",
-          "description": "Magical Authentication for Rails. Supports ActiveRecord, DataMapper, Mongoid and MongoMapper.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-08T10:34:03Z",
-            "owner": "Sorcery",
-            "repo": "sorcery",
-            "stars": 1465
-          }
-        }
-      ],
-      "title": "Authentication"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pundit",
-          "description": "Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-02T10:26:35Z",
-            "owner": "varvet",
-            "repo": "pundit",
-            "stars": 8521
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cancancan",
-          "description": "Continuation of CanCan, the authorization Gem for Ruby on Rails.CanCan is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access. All permissions are defined in a single location (the Ability class) and not duplicated across controllers, views, and database queries.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-09T13:29:52Z",
-            "owner": "CanCanCommunity",
-            "repo": "cancancan",
-            "stars": 5688
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rolify",
-          "description": "Role management library with resource scoping.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-01-24T20:26:03Z",
-            "owner": "RolifyCommunity",
-            "repo": "rolify",
-            "stars": 3177
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "acl9",
-          "description": "Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-03-26T22:39:41Z",
-            "owner": "be9",
-            "repo": "acl9",
-            "stars": 849
-          }
-        }
-      ],
-      "title": "Authorization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "omniauth-google-oauth2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-06-11T00:57:06Z",
-            "owner": "zquestz",
-            "repo": "omniauth-google-oauth2",
-            "stars": 1523
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omniauth-facebook",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-11T23:56:44Z",
-            "owner": "simi",
-            "repo": "omniauth-facebook",
-            "stars": 1267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omniauth-twitter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-06T10:22:45Z",
-            "owner": "arunagw",
-            "repo": "omniauth-twitter",
-            "stars": 577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omniauth-github",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2023-05-25T01:28:31Z",
-            "owner": "omniauth",
-            "repo": "omniauth-github",
-            "stars": 464
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omniauth-weibo-oauth2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-07-12T04:37:36Z",
-            "owner": "beenhero",
-            "repo": "omniauth-weibo-oauth2",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "omniauth-linkedin-oauth2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-08-09T11:04:25Z",
-            "owner": "decioferreira",
-            "repo": "omniauth-linkedin-oauth2",
-            "stars": 117
-          }
-        }
-      ],
-      "title": "Omniauth"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -243,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211588,
             "language": "Ruby",
             "last_commit": "2026-05-08T14:55:46Z",
             "owner": "paper-trail-gem",
@@ -257,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10865,
             "language": "Ruby",
             "last_commit": "2026-08-18T09:19:41Z",
             "owner": "norman",
@@ -271,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1734,
             "language": "Ruby",
             "last_commit": "2026-07-05T05:51:32Z",
             "owner": "aasm",
@@ -285,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1421024,
             "language": "Ruby",
             "last_commit": "2026-06-08T09:44:50Z",
             "owner": "public-activity",
@@ -299,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 904810,
             "language": "Ruby",
             "last_commit": "2025-11-07T11:11:54Z",
             "owner": "rubysherpas",
@@ -313,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 807517,
             "language": "Ruby",
             "last_commit": "2026-08-06T22:36:59Z",
             "owner": "globalize",
@@ -327,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4436959,
             "language": "Ruby",
             "last_commit": "2026-07-08T20:25:19Z",
             "owner": "magnusvk",
@@ -341,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3264002,
             "language": "Ruby",
             "last_commit": "2026-08-04T12:22:05Z",
             "owner": "brainspec",
@@ -355,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20772066,
             "language": "Ruby",
             "last_commit": "2026-03-19T14:22:43Z",
             "owner": "salsify",
@@ -369,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 999967,
             "language": "Ruby",
             "last_commit": "2026-02-19T15:28:13Z",
             "owner": "moiristo",
@@ -383,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3475088,
             "language": "Ruby",
             "last_commit": "2022-11-02T00:28:48Z",
             "owner": "derrickreimer",
@@ -397,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80890819,
             "language": "Ruby",
             "last_commit": "2024-09-27T15:18:57Z",
             "owner": "rails-engine",
@@ -411,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24705794,
             "language": "Ruby",
             "last_commit": "2018-05-11T11:00:05Z",
             "owner": "Timrael",
@@ -425,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2789106,
             "language": "Ruby",
             "last_commit": "2017-01-13T11:02:51Z",
             "owner": "kaize",
@@ -439,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1408200,
             "language": "Ruby",
             "last_commit": "2026-07-30T18:51:05Z",
             "owner": "cedric",
@@ -458,6 +492,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4828,
                 "language": "Ruby",
                 "last_commit": "2026-08-07T07:35:14Z",
                 "owner": "mbleigh",
@@ -472,6 +507,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1764724,
                 "language": "Ruby",
                 "last_commit": "2026-08-05T19:26:01Z",
                 "owner": "ClosureTree",
@@ -485,7 +521,7 @@
       "title": "Active Record"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -494,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9906653,
             "language": "Ruby",
             "last_commit": "2026-08-15T21:05:19Z",
             "owner": "ankane",
@@ -508,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 923028,
             "language": "Ruby",
             "last_commit": "2026-08-14T13:30:06Z",
             "owner": "voormedia",
@@ -522,6 +560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5262776,
             "language": "Ruby",
             "last_commit": "2026-06-02T02:52:35Z",
             "owner": "gjtorikian",
@@ -536,6 +575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1942140,
             "language": "Ruby",
             "last_commit": "2025-01-23T13:42:18Z",
             "owner": "galetahub",
@@ -550,6 +590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12629415,
             "language": "Ruby",
             "last_commit": "2023-04-24T07:03:26Z",
             "owner": "slack-notifier",
@@ -564,6 +605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4017361,
             "language": "Ruby",
             "last_commit": "2026-04-21T14:39:37Z",
             "owner": "zdavatz",
@@ -578,6 +620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10021706,
             "language": "Ruby",
             "last_commit": "2025-05-23T17:49:50Z",
             "owner": "thoughtbot",
@@ -592,6 +635,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31054319,
             "language": "Ruby",
             "last_commit": "2026-08-05T04:50:39Z",
             "owner": "mattbrictson",
@@ -606,6 +650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221858227,
             "language": "Ruby",
             "last_commit": "2025-01-26T19:53:56Z",
             "owner": "amatsuda",
@@ -617,7 +662,7 @@
       "title": "Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -626,11 +671,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 812393,
             "language": "Ruby",
-            "last_commit": "2026-08-18T06:47:49Z",
+            "last_commit": "2026-08-19T05:31:36Z",
             "owner": "ruby-grape",
             "repo": "grape",
-            "stars": 9997
+            "stars": 10004
           }
         },
         {
@@ -640,6 +686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2889230,
             "language": "Ruby",
             "last_commit": "2025-12-08T16:12:19Z",
             "owner": "rails-api",
@@ -654,6 +701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404319,
             "language": "Ruby",
             "last_commit": "2024-05-19T10:18:13Z",
             "owner": "rest-client",
@@ -668,6 +716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2861056,
             "language": "Ruby",
             "last_commit": "2026-06-01T17:42:54Z",
             "owner": "rails",
@@ -682,6 +731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395276,
             "language": "Ruby",
             "last_commit": "2026-03-27T12:50:52Z",
             "owner": "heartcombo",
@@ -701,11 +751,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2055965,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T09:49:21Z",
+                "last_commit": "2026-08-18T23:03:14Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28976
+                "stars": 28977
               }
             },
             {
@@ -715,6 +766,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 5107466,
                 "language": "Ruby",
                 "last_commit": "2026-08-07T14:04:50Z",
                 "owner": "ruby-grape",
@@ -728,7 +780,7 @@
       "title": "API"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -737,6 +789,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 8393,
             "language": "Ruby",
             "last_commit": "2023-07-13T17:57:58Z",
             "owner": "thoughtbot",
@@ -756,6 +809,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 1496951,
                 "language": "Ruby",
                 "last_commit": "2026-03-02T18:28:42Z",
                 "owner": "lardawge",
@@ -770,6 +824,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 7758689,
                 "language": "Ruby",
                 "last_commit": "2022-03-08T15:27:09Z",
                 "owner": "jtescher",
@@ -784,6 +839,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 18689519,
                 "language": "Ruby",
                 "last_commit": "2015-09-08T10:46:57Z",
                 "owner": "kirtithorat",
@@ -794,6 +850,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 47087,
             "language": "Ruby",
             "last_commit": "2026-06-22T13:57:00Z",
             "owner": "carrierwaveuploader",
@@ -808,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203666,
             "language": "Ruby",
             "last_commit": "2024-11-19T13:42:48Z",
             "owner": "fog",
@@ -822,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44935124,
             "language": "Ruby",
             "last_commit": "2026-08-17T17:06:53Z",
             "owner": "shrinerb",
@@ -836,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2727,
             "language": "Ruby",
             "last_commit": "2026-08-06T06:18:24Z",
             "owner": "minimagick",
@@ -850,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26870928,
             "language": "Ruby",
             "last_commit": "2024-07-01T17:43:36Z",
             "owner": "refile",
@@ -864,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1322564,
             "language": "Ruby",
             "last_commit": "2021-03-23T13:16:38Z",
             "owner": "JangoSteve",
@@ -875,7 +937,7 @@
       "title": "File Uploading"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -884,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11412473,
             "language": "Ruby",
             "last_commit": "2026-08-17T05:39:32Z",
             "owner": "ankane",
@@ -898,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1548802,
             "language": "Ruby",
             "last_commit": "2026-05-31T20:24:55Z",
             "owner": "activerecord-hackery",
@@ -912,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14238949,
             "language": "Ruby",
             "last_commit": "2025-10-08T13:42:09Z",
             "owner": "elastic",
@@ -926,6 +991,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62509,
             "language": "JavaScript",
             "last_commit": "2026-08-18T07:11:14Z",
             "owner": "sunspot",
@@ -940,8 +1006,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15042048,
             "language": "Ruby",
-            "last_commit": "2026-08-12T07:15:22Z",
+            "last_commit": "2026-08-19T08:14:02Z",
             "owner": "toptal",
             "repo": "chewy",
             "stars": 1902
@@ -954,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1254797,
             "language": "Ruby",
             "last_commit": "2026-08-10T20:39:42Z",
             "owner": "Casecommons",
@@ -965,7 +1033,7 @@
       "title": "Searching"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -979,28 +1047,18 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12357002,
                 "language": "Ruby",
                 "last_commit": "2026-05-27T14:26:21Z",
                 "owner": "sidekiq-cron",
                 "repo": "sidekiq-cron",
                 "stars": 1945
               }
-            },
-            {
-              "node_type": "item",
-              "title": "sidetiq",
-              "description": "Recurring jobs for sidekiq.",
-              "children": []
-            },
-            {
-              "node_type": "item",
-              "title": "sidekiq-scheduler",
-              "description": "Lightweight job scheduler extension for Sidekiq",
-              "children": []
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 3195124,
             "language": "Ruby",
             "last_commit": "2026-08-17T17:39:39Z",
             "owner": "sidekiq",
@@ -1015,6 +1073,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275604,
             "language": "Ruby",
             "last_commit": "2026-07-28T13:56:54Z",
             "owner": "resque",
@@ -1029,6 +1088,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129791,
             "language": "Ruby",
             "last_commit": "2026-07-01T22:45:54Z",
             "owner": "javan",
@@ -1043,6 +1103,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52287,
             "language": "Ruby",
             "last_commit": "2026-07-13T21:45:00Z",
             "owner": "collectiveidea",
@@ -1057,6 +1118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7705565,
             "language": "Ruby",
             "last_commit": "2025-12-24T00:47:08Z",
             "owner": "brandonhilkert",
@@ -1071,6 +1133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6094,
             "language": "Ruby",
             "last_commit": "2026-06-22T22:44:36Z",
             "owner": "jmettraux",
@@ -1082,7 +1145,7 @@
       "title": "Scheduled/Recurrence Jobs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1091,6 +1154,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 451035,
             "language": "Ruby",
             "last_commit": "2026-04-01T23:20:59Z",
             "owner": "heartcombo",
@@ -1105,6 +1169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7497,
             "language": "Ruby",
             "last_commit": "2026-02-28T05:30:10Z",
             "owner": "formtastic",
@@ -1119,6 +1184,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40407,
             "language": "Ruby",
             "last_commit": "2024-12-02T09:00:38Z",
             "owner": "trailblazer",
@@ -1133,6 +1199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1347323,
             "language": "Ruby",
             "last_commit": "2023-08-08T14:11:26Z",
             "owner": "nathanvda",
@@ -1147,6 +1214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53374,
             "language": "Ruby",
             "last_commit": "2026-08-18T00:23:52Z",
             "owner": "kpumuk",
@@ -1161,6 +1229,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 468501,
             "language": "Ruby",
             "last_commit": "2021-12-11T21:47:06Z",
             "owner": "ryanb",
@@ -1175,6 +1244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1400705,
             "language": "Ruby",
             "last_commit": "2024-04-07T09:40:49Z",
             "owner": "comfy",
@@ -1189,6 +1259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3769756,
             "language": "Ruby",
             "last_commit": "2022-02-14T07:46:05Z",
             "owner": "onomojo",
@@ -1203,6 +1274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34861641,
             "language": "Ruby",
             "last_commit": "2024-01-22T10:53:08Z",
             "owner": "cllns",
@@ -1214,7 +1286,7 @@
       "title": "View Helper"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1223,11 +1295,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5160706,
             "language": "Ruby",
             "last_commit": "2026-06-22T16:42:21Z",
             "owner": "bkeepers",
             "repo": "dotenv",
-            "stars": 6764
+            "stars": 6765
           }
         },
         {
@@ -1237,6 +1310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3910382,
             "language": "Ruby",
             "last_commit": "2025-06-29T16:07:40Z",
             "owner": "laserlemon",
@@ -1251,6 +1325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572993,
             "language": "Ruby",
             "last_commit": "2026-07-28T17:41:32Z",
             "owner": "rubyconfig",
@@ -1265,6 +1340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21429009,
             "language": "Ruby",
             "last_commit": "2016-02-06T17:07:56Z",
             "owner": "mikamai",
@@ -1276,7 +1352,7 @@
       "title": "Environment Variables"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1285,6 +1361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 810796,
             "language": "Ruby",
             "last_commit": "2026-08-08T07:55:45Z",
             "owner": "railsadminteam",
@@ -1299,11 +1376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33739333,
             "language": "JavaScript",
             "last_commit": "2026-08-12T20:04:20Z",
             "owner": "thoughtbot",
             "repo": "administrate",
-            "stars": 6031
+            "stars": 6032
           }
         },
         {
@@ -1313,6 +1391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67960206,
             "language": "Ruby",
             "last_commit": "2025-09-25T12:30:55Z",
             "owner": "TrestleAdmin",
@@ -1332,6 +1411,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 19360491,
                 "language": "Sass",
                 "last_commit": "2023-01-20T11:20:20Z",
                 "owner": "SoftwareBrothers",
@@ -1340,18 +1420,12 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "Typus",
-          "description": "Typus is a control panel for Ruby on Rails applications to allow trusted users edit structured content.",
-          "children": []
         }
       ],
       "title": "Admin Panel"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1360,11 +1434,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17204381,
             "language": "Ruby",
             "last_commit": "2026-08-17T05:37:32Z",
             "owner": "ankane",
             "repo": "ahoy",
-            "stars": 4483
+            "stars": 4484
           }
         },
         {
@@ -1374,6 +1449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3677872,
             "language": "Ruby",
             "last_commit": "2026-07-08T15:18:58Z",
             "owner": "roidrage",
@@ -1388,6 +1464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1326875,
             "language": "Ruby",
             "last_commit": "2026-02-08T22:01:16Z",
             "owner": "charlotte-ruby",
@@ -1399,7 +1476,7 @@
       "title": "Logging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1408,6 +1485,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5057307,
             "language": "Objective-C",
             "last_commit": "2025-11-02T14:24:58Z",
             "owner": "julienXX",
@@ -1427,6 +1505,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2585324,
                 "language": "Ruby",
                 "last_commit": "2026-02-15T13:09:42Z",
                 "owner": "banister",
@@ -1437,6 +1516,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 7066560,
             "language": "Ruby",
             "last_commit": "2024-07-09T08:00:44Z",
             "owner": "BetterErrors",
@@ -1451,6 +1531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 592743,
             "language": "Ruby",
             "last_commit": "2024-08-15T20:03:46Z",
             "owner": "awesome-print",
@@ -1465,6 +1546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6747983,
             "language": "JavaScript",
             "last_commit": "2026-05-27T21:45:10Z",
             "owner": "dejan",
@@ -1479,6 +1561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2344621,
             "language": "Ruby",
             "last_commit": "2026-04-25T13:24:46Z",
             "owner": "ryanb",
@@ -1498,6 +1581,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9824738,
                 "language": "Ruby",
                 "last_commit": "2026-05-18T15:11:27Z",
                 "owner": "deivid-rodriguez",
@@ -1508,6 +1592,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 8863313,
             "language": "Ruby",
             "last_commit": "2026-07-27T03:09:11Z",
             "owner": "deivid-rodriguez",
@@ -1522,6 +1607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7362671,
             "language": "Ruby",
             "last_commit": "2026-06-30T16:30:38Z",
             "owner": "rails",
@@ -1536,6 +1622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92826,
             "language": "Ruby",
             "last_commit": "2026-08-18T06:44:28Z",
             "owner": "indirect",
@@ -1550,6 +1637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12496351,
             "language": "Ruby",
             "last_commit": "2026-02-23T19:32:06Z",
             "owner": "rails",
@@ -1564,6 +1652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2278820,
             "language": "Ruby",
             "last_commit": "2024-06-20T01:31:49Z",
             "owner": "pry",
@@ -1578,6 +1667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206753,
             "language": "Ruby",
             "last_commit": "2013-07-31T16:30:17Z",
             "owner": "jugyo",
@@ -1589,7 +1679,7 @@
       "title": "Debug"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1598,8 +1688,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4095287,
             "language": "Ruby",
-            "last_commit": "2026-08-18T05:14:23Z",
+            "last_commit": "2026-08-19T05:23:33Z",
             "owner": "rubocop",
             "repo": "rubocop",
             "stars": 12899
@@ -1612,6 +1703,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11131276,
             "language": "Ruby",
             "last_commit": "2026-05-04T04:55:10Z",
             "owner": "prontolabs",
@@ -1626,24 +1718,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4979793,
             "language": "Ruby",
             "last_commit": "2024-02-27T06:07:37Z",
             "owner": "metricfu",
             "repo": "metric_fu",
             "stars": 627
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Rails Best Practice",
-          "description": "Rails best practice is a code metric tool to check the quality of rails codes.",
-          "children": []
         }
       ],
       "title": "Coding Style"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1657,6 +1744,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 2661753,
                 "language": "Ruby",
                 "last_commit": "2019-09-27T15:03:45Z",
                 "owner": "teampoltergeist",
@@ -1671,6 +1759,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 1409544,
                 "language": "Ruby",
                 "last_commit": "2020-03-03T15:09:01Z",
                 "owner": "thoughtbot",
@@ -1685,6 +1774,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1728610,
                 "language": "Ruby",
                 "last_commit": "2021-05-03T01:39:19Z",
                 "owner": "cheezy",
@@ -1699,6 +1789,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1986539,
                 "language": "Ruby",
                 "last_commit": "2015-12-17T21:11:53Z",
                 "owner": "vertis",
@@ -1709,6 +1800,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 361310,
             "language": "Ruby",
             "last_commit": "2026-07-13T14:52:49Z",
             "owner": "teamcapybara",
@@ -1723,11 +1815,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21829,
             "language": "Ruby",
             "last_commit": "2026-07-24T20:22:06Z",
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8169
+            "stars": 8170
           }
         },
         {
@@ -1737,11 +1830,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 535266,
             "language": "Ruby",
             "last_commit": "2026-06-23T06:33:13Z",
             "owner": "vcr",
             "repo": "vcr",
-            "stars": 6078
+            "stars": 6079
           }
         },
         {
@@ -1751,6 +1845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447184,
             "language": "Ruby",
             "last_commit": "2026-08-17T23:15:52Z",
             "owner": "rspec",
@@ -1765,11 +1860,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 839336,
             "language": "Ruby",
-            "last_commit": "2026-08-18T05:19:01Z",
+            "last_commit": "2026-08-19T01:58:10Z",
             "owner": "simplecov-ruby",
             "repo": "simplecov",
-            "stars": 4917
+            "stars": 4919
           }
         },
         {
@@ -1779,11 +1875,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1172597,
             "language": "Ruby",
             "last_commit": "2026-08-10T13:14:13Z",
             "owner": "thoughtbot",
             "repo": "shoulda-matchers",
-            "stars": 3583
+            "stars": 3584
           }
         },
         {
@@ -1793,6 +1890,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72991,
             "language": "Ruby",
             "last_commit": "2026-04-12T15:27:41Z",
             "owner": "travisjeffery",
@@ -1807,6 +1905,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 683939,
             "language": "Ruby",
             "last_commit": "2026-07-21T12:19:09Z",
             "owner": "thoughtbot",
@@ -1821,6 +1920,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143489,
             "language": "Ruby",
             "last_commit": "2026-06-01T18:01:14Z",
             "owner": "DatabaseCleaner",
@@ -1835,6 +1935,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6898698,
             "language": "Ruby",
             "last_commit": "2017-06-05T19:53:50Z",
             "owner": "r7kamura",
@@ -1849,66 +1950,71 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40402163,
             "language": "Ruby",
             "last_commit": "2015-08-25T15:32:34Z",
             "owner": "st0012",
             "repo": "factory_factory_girl",
             "stars": 45
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "brakeman",
+              "description": "Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 865250,
+                "language": "Ruby",
+                "last_commit": "2026-08-13T17:08:16Z",
+                "owner": "presidentbeef",
+                "repo": "brakeman",
+                "stars": 7262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Secure Headers",
+              "description": "Secure Headers will automatically apply several headers that are related to security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7122663,
+                "language": "Ruby",
+                "last_commit": "2026-07-27T15:57:10Z",
+                "owner": "github",
+                "repo": "secure_headers",
+                "stars": 3229
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bundle-audit",
+              "description": "bundler-audit is a patch-level verification tool for Bundler which checks for vulnerable versions of gems and insecure gem sources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8133216,
+                "language": "Ruby",
+                "last_commit": "2026-08-15T22:59:40Z",
+                "owner": "rubysec",
+                "repo": "bundler-audit",
+                "stars": 2758
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
         }
       ],
       "title": "Testing"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "brakeman",
-          "description": "Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-13T17:08:16Z",
-            "owner": "presidentbeef",
-            "repo": "brakeman",
-            "stars": 7262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Secure Headers",
-          "description": "Secure Headers will automatically apply several headers that are related to security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-27T15:57:10Z",
-            "owner": "github",
-            "repo": "secure_headers",
-            "stars": 3229
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bundle-audit",
-          "description": "bundler-audit is a patch-level verification tool for Bundler which checks for vulnerable versions of gems and insecure gem sources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-15T22:59:40Z",
-            "owner": "rubysec",
-            "repo": "bundler-audit",
-            "stars": 2758
-          }
-        }
-      ],
-      "title": "Security"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1917,11 +2023,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138312,
             "language": "Ruby",
             "last_commit": "2026-07-19T03:53:28Z",
             "owner": "capistrano",
             "repo": "capistrano",
-            "stars": 12983
+            "stars": 12984
           }
         },
         {
@@ -1931,11 +2038,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5219382,
             "language": "Ruby",
             "last_commit": "2026-07-02T20:27:09Z",
             "owner": "rack",
             "repo": "rack-attack",
-            "stars": 5762
+            "stars": 5763
           }
         },
         {
@@ -1945,11 +2053,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4518079,
             "language": "Ruby",
             "last_commit": "2024-08-01T23:49:40Z",
             "owner": "mina-deploy",
             "repo": "mina",
-            "stars": 4355
+            "stars": 4356
           }
         },
         {
@@ -1959,6 +2068,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23554554,
             "language": null,
             "last_commit": "2026-03-31T20:38:05Z",
             "owner": "ankane",
@@ -1973,6 +2083,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392785,
             "language": "Ruby",
             "last_commit": "2026-04-06T20:25:44Z",
             "owner": "heartcombo",
@@ -1987,6 +2098,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25561827,
             "language": "Ruby",
             "last_commit": "2026-04-04T20:48:50Z",
             "owner": "ankane",
@@ -1998,7 +2110,7 @@
       "title": "Production"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2007,11 +2119,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 816197,
             "language": "Ruby",
-            "last_commit": "2026-08-15T13:12:27Z",
+            "last_commit": "2026-08-18T12:05:49Z",
             "owner": "errbit",
             "repo": "errbit",
-            "stars": 4270
+            "stars": 4271
           }
         },
         {
@@ -2021,6 +2134,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2263819,
             "language": "Ruby",
             "last_commit": "2024-12-21T01:08:22Z",
             "owner": "airbrake",
@@ -2035,6 +2149,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5556347,
             "language": "Ruby",
             "last_commit": "2026-05-06T20:10:28Z",
             "owner": "rollbar",
@@ -2044,15 +2159,10 @@
         }
       ],
       "title": "Error Logging"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:59:45.574Z",
+    "last_updated": "2026-08-19T10:00:11.050Z",
     "original_repository": "hothero/awesome-rails-gem",
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",
     "enhanced_repository": "enhansome/enhansome-rails-gem",

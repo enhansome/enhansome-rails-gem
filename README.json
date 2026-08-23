@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-22T17:32:32Z",
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24357
+                "stars": 24358
               }
             },
             {
@@ -267,7 +267,7 @@
             "last_commit": "2026-05-08T14:55:46Z",
             "owner": "paper-trail-gem",
             "repo": "paper_trail",
-            "stars": 7030
+            "stars": 7031
           }
         },
         {
@@ -673,7 +673,7 @@
             "archived": false,
             "id": 812393,
             "language": "Ruby",
-            "last_commit": "2026-08-21T10:09:23Z",
+            "last_commit": "2026-08-22T19:37:42Z",
             "owner": "ruby-grape",
             "repo": "grape",
             "stars": 10006
@@ -753,7 +753,7 @@
                 "archived": false,
                 "id": 2055965,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T10:25:11Z",
+                "last_commit": "2026-08-22T23:02:14Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
                 "stars": 28980
@@ -852,7 +852,7 @@
             "archived": false,
             "id": 47087,
             "language": "Ruby",
-            "last_commit": "2026-08-22T09:19:51Z",
+            "last_commit": "2026-08-23T07:41:49Z",
             "owner": "carrierwaveuploader",
             "repo": "carrierwave",
             "stars": 8780
@@ -951,7 +951,7 @@
             "last_commit": "2026-08-17T05:39:32Z",
             "owner": "ankane",
             "repo": "searchkick",
-            "stars": 6718
+            "stars": 6719
           }
         },
         {
@@ -1219,7 +1219,7 @@
             "last_commit": "2026-08-18T00:23:52Z",
             "owner": "kpumuk",
             "repo": "meta-tags",
-            "stars": 2800
+            "stars": 2802
           }
         },
         {
@@ -1363,7 +1363,7 @@
             "archived": false,
             "id": 810796,
             "language": "Ruby",
-            "last_commit": "2026-08-22T09:17:41Z",
+            "last_commit": "2026-08-22T14:01:52Z",
             "owner": "railsadminteam",
             "repo": "rails_admin",
             "stars": 7957
@@ -1847,7 +1847,7 @@
             "archived": false,
             "id": 447184,
             "language": "Ruby",
-            "last_commit": "2026-08-20T12:54:37Z",
+            "last_commit": "2026-08-22T10:32:32Z",
             "owner": "rspec",
             "repo": "rspec-rails",
             "stars": 5271
@@ -1910,7 +1910,7 @@
             "last_commit": "2026-07-21T12:19:09Z",
             "owner": "thoughtbot",
             "repo": "factory_bot_rails",
-            "stars": 3136
+            "stars": 3137
           }
         },
         {
@@ -2162,7 +2162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:52:53.450Z",
+    "last_updated": "2026-08-23T09:53:41.976Z",
     "original_repository": "hothero/awesome-rails-gem",
     "original_repository_id": 27949922,
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",

@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-22T17:32:32Z",
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24359
+                "stars": 24360
               }
             },
             {
@@ -595,7 +595,7 @@
             "last_commit": "2023-04-24T07:03:26Z",
             "owner": "slack-notifier",
             "repo": "slack-notifier",
-            "stars": 1488
+            "stars": 1487
           }
         },
         {
@@ -756,7 +756,7 @@
                 "last_commit": "2026-08-24T08:59:07Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28983
+                "stars": 28984
               }
             },
             {
@@ -1487,10 +1487,10 @@
             "archived": false,
             "id": 5057307,
             "language": "Objective-C",
-            "last_commit": "2026-08-23T21:22:09Z",
+            "last_commit": "2026-08-24T12:20:55Z",
             "owner": "julienXX",
             "repo": "terminal-notifier",
-            "stars": 7293
+            "stars": 7294
           }
         },
         {
@@ -1690,10 +1690,10 @@
             "archived": false,
             "id": 4095287,
             "language": "Ruby",
-            "last_commit": "2026-08-24T06:23:13Z",
+            "last_commit": "2026-08-24T11:40:11Z",
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12899
+            "stars": 12898
           }
         },
         {
@@ -2121,7 +2121,7 @@
             "archived": false,
             "id": 816197,
             "language": "Ruby",
-            "last_commit": "2026-08-22T00:14:17Z",
+            "last_commit": "2026-08-24T10:43:13Z",
             "owner": "errbit",
             "repo": "errbit",
             "stars": 4271
@@ -2159,10 +2159,52 @@
         }
       ],
       "title": "Error Logging"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rails_db",
+          "description": "Rails Database Viewer and SQL Query Runner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44268071,
+            "language": "JavaScript",
+            "last_commit": "2026-06-19T21:27:58Z",
+            "owner": "igorkasyanchuk",
+            "repo": "rails_db",
+            "stars": 1497
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alaska",
+          "description": "ExecJS runtime with persistent connection to nodejs, speeds up your coffeescript compilation process during development and deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 31079004,
+            "language": "Ruby",
+            "last_commit": "2022-11-14T15:27:35Z",
+            "owner": "mavenlink",
+            "repo": "alaska",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Asset Pipeline"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:12:49.715Z",
+    "last_updated": "2026-08-24T14:03:24.698Z",
     "original_repository": "hothero/awesome-rails-gem",
     "original_repository_id": 27949922,
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",

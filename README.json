@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-22T17:32:32Z",
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24358
+                "stars": 24359
               }
             },
             {
@@ -673,7 +673,7 @@
             "archived": false,
             "id": 812393,
             "language": "Ruby",
-            "last_commit": "2026-08-22T19:37:42Z",
+            "last_commit": "2026-08-24T08:08:24Z",
             "owner": "ruby-grape",
             "repo": "grape",
             "stars": 10006
@@ -753,10 +753,10 @@
                 "archived": false,
                 "id": 2055965,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T23:02:14Z",
+                "last_commit": "2026-08-24T08:59:07Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28980
+                "stars": 28983
               }
             },
             {
@@ -771,7 +771,7 @@
                 "last_commit": "2026-08-07T14:04:50Z",
                 "owner": "ruby-grape",
                 "repo": "grape-swagger",
-                "stars": 1102
+                "stars": 1101
               }
             }
           ]
@@ -1159,7 +1159,7 @@
             "last_commit": "2026-04-01T23:20:59Z",
             "owner": "heartcombo",
             "repo": "simple_form",
-            "stars": 8227
+            "stars": 8228
           }
         },
         {
@@ -1487,10 +1487,10 @@
             "archived": false,
             "id": 5057307,
             "language": "Objective-C",
-            "last_commit": "2025-11-02T14:24:58Z",
+            "last_commit": "2026-08-23T21:22:09Z",
             "owner": "julienXX",
             "repo": "terminal-notifier",
-            "stars": 7291
+            "stars": 7293
           }
         },
         {
@@ -1690,10 +1690,10 @@
             "archived": false,
             "id": 4095287,
             "language": "Ruby",
-            "last_commit": "2026-08-21T15:51:31Z",
+            "last_commit": "2026-08-24T06:23:13Z",
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12901
+            "stars": 12899
           }
         },
         {
@@ -1835,7 +1835,7 @@
             "last_commit": "2026-06-23T06:33:13Z",
             "owner": "vcr",
             "repo": "vcr",
-            "stars": 6078
+            "stars": 6079
           }
         },
         {
@@ -1880,7 +1880,7 @@
             "last_commit": "2026-08-10T13:14:13Z",
             "owner": "thoughtbot",
             "repo": "shoulda-matchers",
-            "stars": 3583
+            "stars": 3582
           }
         },
         {
@@ -2028,7 +2028,7 @@
             "last_commit": "2026-07-19T03:53:28Z",
             "owner": "capistrano",
             "repo": "capistrano",
-            "stars": 12985
+            "stars": 12986
           }
         },
         {
@@ -2162,7 +2162,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:53:41.976Z",
+    "last_updated": "2026-08-24T10:12:49.715Z",
     "original_repository": "hothero/awesome-rails-gem",
     "original_repository_id": 27949922,
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",

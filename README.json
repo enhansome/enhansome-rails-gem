@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-22T17:32:32Z",
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24360
+                "stars": 24359
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-09T13:29:52Z",
                 "owner": "CanCanCommunity",
                 "repo": "cancancan",
-                "stars": 5688
+                "stars": 5687
               }
             },
             {
@@ -736,7 +736,7 @@
             "last_commit": "2026-03-27T12:50:52Z",
             "owner": "heartcombo",
             "repo": "has_scope",
-            "stars": 1729
+            "stars": 1728
           }
         },
         {
@@ -753,7 +753,7 @@
                 "archived": false,
                 "id": 2055965,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T08:59:07Z",
+                "last_commit": "2026-08-25T08:20:50Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
                 "stars": 28986
@@ -855,7 +855,7 @@
             "last_commit": "2026-08-23T07:41:49Z",
             "owner": "carrierwaveuploader",
             "repo": "carrierwave",
-            "stars": 8780
+            "stars": 8779
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-06-22T22:44:36Z",
             "owner": "jmettraux",
             "repo": "rufus-scheduler",
-            "stars": 2446
+            "stars": 2447
           }
         }
       ],
@@ -1642,7 +1642,7 @@
             "last_commit": "2026-02-23T19:32:06Z",
             "owner": "rails",
             "repo": "web-console",
-            "stars": 1436
+            "stars": 1435
           }
         },
         {
@@ -1820,7 +1820,7 @@
             "last_commit": "2026-08-21T15:39:33Z",
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8170
+            "stars": 8169
           }
         },
         {
@@ -1880,7 +1880,7 @@
             "last_commit": "2026-08-10T13:14:13Z",
             "owner": "thoughtbot",
             "repo": "shoulda-matchers",
-            "stars": 3582
+            "stars": 3581
           }
         },
         {
@@ -2175,7 +2175,7 @@
             "last_commit": "2026-06-19T21:27:58Z",
             "owner": "igorkasyanchuk",
             "repo": "rails_db",
-            "stars": 1497
+            "stars": 1496
           }
         }
       ],
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:33.230Z",
+    "last_updated": "2026-08-25T10:02:45.385Z",
     "original_repository": "hothero/awesome-rails-gem",
     "original_repository_id": 27949922,
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",

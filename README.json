@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-02T10:26:35Z",
                 "owner": "varvet",
                 "repo": "pundit",
-                "stars": 8523
+                "stars": 8522
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-09T13:29:52Z",
                 "owner": "CanCanCommunity",
                 "repo": "cancancan",
-                "stars": 5689
+                "stars": 5688
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-01-24T20:26:03Z",
                 "owner": "RolifyCommunity",
                 "repo": "rolify",
-                "stars": 3178
+                "stars": 3177
               }
             },
             {
@@ -267,7 +267,7 @@
             "last_commit": "2026-05-08T14:55:46Z",
             "owner": "paper-trail-gem",
             "repo": "paper_trail",
-            "stars": 7031
+            "stars": 7032
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-07-05T05:51:32Z",
             "owner": "aasm",
             "repo": "aasm",
-            "stars": 5231
+            "stars": 5230
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2025-11-07T11:11:54Z",
             "owner": "rubysherpas",
             "repo": "paranoia",
-            "stars": 2917
+            "stars": 2916
           }
         },
         {
@@ -497,7 +497,7 @@
                 "last_commit": "2026-08-07T07:35:14Z",
                 "owner": "mbleigh",
                 "repo": "acts-as-taggable-on",
-                "stars": 4990
+                "stars": 4989
               }
             },
             {
@@ -691,7 +691,7 @@
             "last_commit": "2025-12-08T16:12:19Z",
             "owner": "rails-api",
             "repo": "active_model_serializers",
-            "stars": 5343
+            "stars": 5342
           }
         },
         {
@@ -721,7 +721,7 @@
             "last_commit": "2026-06-01T17:42:54Z",
             "owner": "rails",
             "repo": "jbuilder",
-            "stars": 4421
+            "stars": 4420
           }
         },
         {
@@ -756,7 +756,7 @@
                 "last_commit": "2026-08-24T08:59:07Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28984
+                "stars": 28986
               }
             },
             {
@@ -951,7 +951,7 @@
             "last_commit": "2026-08-17T05:39:32Z",
             "owner": "ankane",
             "repo": "searchkick",
-            "stars": 6719
+            "stars": 6720
           }
         },
         {
@@ -966,7 +966,7 @@
             "last_commit": "2026-05-31T20:24:55Z",
             "owner": "activerecord-hackery",
             "repo": "ransack",
-            "stars": 5864
+            "stars": 5863
           }
         },
         {
@@ -1011,7 +1011,7 @@
             "last_commit": "2026-08-19T08:14:02Z",
             "owner": "toptal",
             "repo": "chewy",
-            "stars": 1902
+            "stars": 1901
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2026-07-28T13:56:54Z",
             "owner": "resque",
             "repo": "resque",
-            "stars": 9481
+            "stars": 9480
           }
         },
         {
@@ -1159,7 +1159,7 @@
             "last_commit": "2026-04-01T23:20:59Z",
             "owner": "heartcombo",
             "repo": "simple_form",
-            "stars": 8228
+            "stars": 8229
           }
         },
         {
@@ -1381,7 +1381,7 @@
             "last_commit": "2026-08-19T20:04:06Z",
             "owner": "thoughtbot",
             "repo": "administrate",
-            "stars": 6032
+            "stars": 6031
           }
         },
         {
@@ -1469,7 +1469,7 @@
             "last_commit": "2026-02-08T22:01:16Z",
             "owner": "charlotte-ruby",
             "repo": "impressionist",
-            "stars": 1528
+            "stars": 1527
           }
         }
       ],
@@ -1566,7 +1566,7 @@
             "last_commit": "2026-04-25T13:24:46Z",
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3841
+            "stars": 3840
           }
         },
         {
@@ -1690,7 +1690,7 @@
             "archived": false,
             "id": 4095287,
             "language": "Ruby",
-            "last_commit": "2026-08-24T11:40:11Z",
+            "last_commit": "2026-08-25T04:56:07Z",
             "owner": "rubocop",
             "repo": "rubocop",
             "stars": 12898
@@ -1805,7 +1805,7 @@
             "last_commit": "2026-07-13T14:52:49Z",
             "owner": "teamcapybara",
             "repo": "capybara",
-            "stars": 10170
+            "stars": 10169
           }
         },
         {
@@ -1820,7 +1820,7 @@
             "last_commit": "2026-08-21T15:39:33Z",
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8169
+            "stars": 8170
           }
         },
         {
@@ -1835,7 +1835,7 @@
             "last_commit": "2026-06-23T06:33:13Z",
             "owner": "vcr",
             "repo": "vcr",
-            "stars": 6079
+            "stars": 6078
           }
         },
         {
@@ -1862,10 +1862,10 @@
             "archived": false,
             "id": 839336,
             "language": "Ruby",
-            "last_commit": "2026-08-21T20:52:48Z",
+            "last_commit": "2026-08-24T22:25:28Z",
             "owner": "simplecov-ruby",
             "repo": "simplecov",
-            "stars": 4919
+            "stars": 4918
           }
         },
         {
@@ -1925,7 +1925,7 @@
             "last_commit": "2026-06-01T18:01:14Z",
             "owner": "DatabaseCleaner",
             "repo": "database_cleaner",
-            "stars": 2964
+            "stars": 2965
           }
         },
         {
@@ -1972,7 +1972,7 @@
                 "last_commit": "2026-08-13T17:08:16Z",
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7261
+                "stars": 7262
               }
             },
             {
@@ -2028,7 +2028,7 @@
             "last_commit": "2026-07-19T03:53:28Z",
             "owner": "capistrano",
             "repo": "capistrano",
-            "stars": 12986
+            "stars": 12984
           }
         },
         {
@@ -2154,7 +2154,7 @@
             "last_commit": "2026-05-06T20:10:28Z",
             "owner": "rollbar",
             "repo": "rollbar-gem",
-            "stars": 482
+            "stars": 483
           }
         }
       ],
@@ -2204,7 +2204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:03:24.698Z",
+    "last_updated": "2026-08-25T05:53:33.230Z",
     "original_repository": "hothero/awesome-rails-gem",
     "original_repository_id": 27949922,
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",

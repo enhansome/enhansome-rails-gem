@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-22T17:32:32Z",
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24358
+                "stars": 24359
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-07-08T10:34:03Z",
                 "owner": "Sorcery",
                 "repo": "sorcery",
-                "stars": 1465
+                "stars": 1464
               }
             }
           ],
@@ -96,7 +96,7 @@
                 "archived": false,
                 "id": 6529205,
                 "language": "Ruby",
-                "last_commit": "2026-08-02T10:26:35Z",
+                "last_commit": "2026-08-27T09:23:58Z",
                 "owner": "varvet",
                 "repo": "pundit",
                 "stars": 8522
@@ -327,7 +327,7 @@
             "last_commit": "2025-11-07T11:11:54Z",
             "owner": "rubysherpas",
             "repo": "paranoia",
-            "stars": 2916
+            "stars": 2915
           }
         },
         {
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 807517,
             "language": "Ruby",
-            "last_commit": "2026-08-06T22:36:59Z",
+            "last_commit": "2026-08-27T04:22:51Z",
             "owner": "globalize",
             "repo": "globalize",
             "stars": 2158
@@ -402,7 +402,7 @@
             "last_commit": "2026-02-19T15:28:13Z",
             "owner": "moiristo",
             "repo": "deep_cloneable",
-            "stars": 810
+            "stars": 809
           }
         },
         {
@@ -721,7 +721,7 @@
             "last_commit": "2026-06-01T17:42:54Z",
             "owner": "rails",
             "repo": "jbuilder",
-            "stars": 4420
+            "stars": 4421
           }
         },
         {
@@ -753,10 +753,10 @@
                 "archived": false,
                 "id": 2055965,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T09:28:08Z",
+                "last_commit": "2026-08-27T11:43:27Z",
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28988
+                "stars": 28993
               }
             },
             {
@@ -882,7 +882,7 @@
             "archived": false,
             "id": 44935124,
             "language": "Ruby",
-            "last_commit": "2026-08-17T17:06:53Z",
+            "last_commit": "2026-08-26T13:18:06Z",
             "owner": "shrinerb",
             "repo": "shrine",
             "stars": 3285
@@ -951,7 +951,7 @@
             "last_commit": "2026-08-17T05:39:32Z",
             "owner": "ankane",
             "repo": "searchkick",
-            "stars": 6720
+            "stars": 6721
           }
         },
         {
@@ -1078,7 +1078,7 @@
             "last_commit": "2026-07-28T13:56:54Z",
             "owner": "resque",
             "repo": "resque",
-            "stars": 9479
+            "stars": 9480
           }
         },
         {
@@ -1093,7 +1093,7 @@
             "last_commit": "2026-07-01T22:45:54Z",
             "owner": "javan",
             "repo": "whenever",
-            "stars": 8860
+            "stars": 8859
           }
         },
         {
@@ -1138,7 +1138,7 @@
             "last_commit": "2026-06-22T22:44:36Z",
             "owner": "jmettraux",
             "repo": "rufus-scheduler",
-            "stars": 2447
+            "stars": 2446
           }
         }
       ],
@@ -1179,21 +1179,6 @@
         },
         {
           "node_type": "item",
-          "title": "cells",
-          "description": "Cells allow you to encapsulate parts of your UI into components into view models. View models, or cells, are simple ruby classes that can render templates.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 40407,
-            "language": "Ruby",
-            "last_commit": "2024-12-02T09:00:38Z",
-            "owner": "trailblazer",
-            "repo": "cells",
-            "stars": 3072
-          }
-        },
-        {
-          "node_type": "item",
           "title": "cocoon",
           "description": "Dynamic nested forms using jQuery made easy",
           "children": [],
@@ -1205,6 +1190,21 @@
             "owner": "nathanvda",
             "repo": "cocoon",
             "stars": 3072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cells",
+          "description": "Cells allow you to encapsulate parts of your UI into components into view models. View models, or cells, are simple ruby classes that can render templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40407,
+            "language": "Ruby",
+            "last_commit": "2024-12-02T09:00:38Z",
+            "owner": "trailblazer",
+            "repo": "cells",
+            "stars": 3071
           }
         },
         {
@@ -1378,7 +1378,7 @@
             "archived": false,
             "id": 33739333,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T20:04:06Z",
+            "last_commit": "2026-08-26T20:04:08Z",
             "owner": "thoughtbot",
             "repo": "administrate",
             "stars": 6031
@@ -1439,7 +1439,7 @@
             "last_commit": "2026-08-17T05:37:32Z",
             "owner": "ankane",
             "repo": "ahoy",
-            "stars": 4482
+            "stars": 4481
           }
         },
         {
@@ -1490,7 +1490,7 @@
             "last_commit": "2026-08-24T12:20:55Z",
             "owner": "julienXX",
             "repo": "terminal-notifier",
-            "stars": 7296
+            "stars": 7298
           }
         },
         {
@@ -1551,7 +1551,7 @@
             "last_commit": "2026-05-27T21:45:10Z",
             "owner": "dejan",
             "repo": "rails_panel",
-            "stars": 3869
+            "stars": 3868
           }
         },
         {
@@ -1566,7 +1566,7 @@
             "last_commit": "2026-04-25T13:24:46Z",
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3840
+            "stars": 3842
           }
         },
         {
@@ -1612,7 +1612,7 @@
             "last_commit": "2026-06-30T16:30:38Z",
             "owner": "rails",
             "repo": "spring",
-            "stars": 2814
+            "stars": 2815
           }
         },
         {
@@ -1624,7 +1624,7 @@
             "archived": false,
             "id": 92826,
             "language": "Ruby",
-            "last_commit": "2026-08-18T06:44:28Z",
+            "last_commit": "2026-08-26T11:02:53Z",
             "owner": "indirect",
             "repo": "rails-footnotes",
             "stars": 1522
@@ -1642,7 +1642,7 @@
             "last_commit": "2026-02-23T19:32:06Z",
             "owner": "rails",
             "repo": "web-console",
-            "stars": 1435
+            "stars": 1436
           }
         },
         {
@@ -1690,7 +1690,7 @@
             "archived": false,
             "id": 4095287,
             "language": "Ruby",
-            "last_commit": "2026-08-25T20:01:32Z",
+            "last_commit": "2026-08-26T18:24:16Z",
             "owner": "rubocop",
             "repo": "rubocop",
             "stars": 12899
@@ -1835,7 +1835,7 @@
             "last_commit": "2026-06-23T06:33:13Z",
             "owner": "vcr",
             "repo": "vcr",
-            "stars": 6078
+            "stars": 6077
           }
         },
         {
@@ -2121,7 +2121,7 @@
             "archived": false,
             "id": 816197,
             "language": "Ruby",
-            "last_commit": "2026-08-25T16:27:55Z",
+            "last_commit": "2026-08-27T11:54:45Z",
             "owner": "errbit",
             "repo": "errbit",
             "stars": 4271
@@ -2154,7 +2154,7 @@
             "last_commit": "2026-05-06T20:10:28Z",
             "owner": "rollbar",
             "repo": "rollbar-gem",
-            "stars": 483
+            "stars": 484
           }
         }
       ],
@@ -2204,9 +2204,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:07:38.113Z",
-    "original_repository": "hothero/awesome-rails-gem",
-    "original_repository_id": 27949922,
+    "last_updated": "2026-08-27T11:58:39.306Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 27949922,
+      "language": "Ruby",
+      "last_commit": "2024-03-12T22:04:35Z",
+      "owner": "hothero",
+      "repo": "awesome-rails-gem",
+      "stars": 2805
+    },
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",
     "enhanced_repository": "enhansome/enhansome-rails-gem",
     "enhanced_repository_description": null,

@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexible authentication solution for Rails with Warden.",
+                "homepage": null,
                 "id": 308770,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-06-22T17:32:32Z",
+                "open_issues": 231,
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24359
+                "stars": 24359,
+                "topics": [
+                  "authentication",
+                  "devise",
+                  "rails",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -28,12 +38,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rails authentication with email & password.",
+                "homepage": "https://thoughtbot.com",
                 "id": 56125,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-16T18:42:45Z",
+                "open_issues": 37,
                 "owner": "thoughtbot",
                 "repo": "clearance",
-                "stars": 3736
+                "stars": 3736,
+                "topics": [
+                  "clearance",
+                  "rails",
+                  "rails-authentication",
+                  "ruby",
+                  "rubygem",
+                  "thoughtbot"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -44,12 +66,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.",
+                "homepage": null,
                 "id": 21333814,
                 "language": "Ruby",
+                "license": "WTFPL",
                 "last_commit": "2026-07-31T13:14:56Z",
+                "open_issues": 207,
                 "owner": "lynndylanhurley",
                 "repo": "devise_token_auth",
-                "stars": 3571
+                "stars": 3571,
+                "topics": [
+                  "api",
+                  "authentication",
+                  "devise",
+                  "oauth",
+                  "omniauth",
+                  "rails"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -60,12 +94,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Seamless JWT authentication for Rails API",
+                "homepage": null,
                 "id": 39015905,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-03-21T22:06:07Z",
+                "open_issues": 61,
                 "owner": "nsarno",
                 "repo": "knock",
-                "stars": 2054
+                "stars": 2054,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -76,12 +115,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Magical Authentication",
+                "homepage": "https://rubygems.org/gems/sorcery",
                 "id": 68418199,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-08T10:34:03Z",
+                "open_issues": 55,
                 "owner": "Sorcery",
                 "repo": "sorcery",
-                "stars": 1464
+                "stars": 1464,
+                "topics": [
+                  "authentication",
+                  "rails",
+                  "ruby",
+                  "sorcery"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
@@ -99,12 +148,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal authorization through OO design and pure Ruby classes",
+                "homepage": null,
                 "id": 6529205,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:16:33Z",
+                "open_issues": 13,
                 "owner": "varvet",
                 "repo": "pundit",
-                "stars": 8522
+                "stars": 8522,
+                "topics": [
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -115,12 +171,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The authorization Gem for Ruby on Rails.",
+                "homepage": null,
                 "id": 16994115,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-09T13:29:52Z",
+                "open_issues": 92,
                 "owner": "CanCanCommunity",
                 "repo": "cancancan",
-                "stars": 5686
+                "stars": 5686,
+                "topics": [
+                  "authorization",
+                  "cancancan",
+                  "rails"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -131,12 +196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Role management library with resource scoping",
+                "homepage": "https://rolifycommunity.github.io/rolify/",
                 "id": 1844503,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-01-24T20:26:03Z",
+                "open_issues": 152,
                 "owner": "RolifyCommunity",
                 "repo": "rolify",
-                "stars": 3177
+                "stars": 3177,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -147,12 +217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another role-based authorization system for Rails",
+                "homepage": null,
                 "id": 100181,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-03-26T22:39:41Z",
+                "open_issues": 3,
                 "owner": "be9",
                 "repo": "acl9",
-                "stars": 849
+                "stars": 849,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
@@ -170,12 +245,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Oauth2 strategy for Google",
+                "homepage": null,
                 "id": 2704356,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-06-11T00:57:06Z",
+                "open_issues": 0,
                 "owner": "zquestz",
                 "repo": "omniauth-google-oauth2",
-                "stars": 1524
+                "stars": 1524,
+                "topics": [
+                  "google-oauth2",
+                  "oauth2",
+                  "omniauth",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -186,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Facebook OAuth2 Strategy for OmniAuth",
+                "homepage": "https://simi.github.io/omniauth-facebook/",
                 "id": 2580835,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-08-11T23:56:44Z",
+                "open_issues": 2,
                 "owner": "simi",
                 "repo": "omniauth-facebook",
-                "stars": 1267
+                "stars": 1267,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -202,12 +292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OmniAuth strategy for Twitter",
+                "homepage": "http://arunagw.github.io/omniauth-twitter/",
                 "id": 2685821,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-07-06T10:22:45Z",
+                "open_issues": 18,
                 "owner": "arunagw",
                 "repo": "omniauth-twitter",
-                "stars": 577
+                "stars": 577,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -218,12 +313,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub strategy for OmniAuth",
+                "homepage": null,
                 "id": 2662957,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2023-05-25T01:28:31Z",
+                "open_issues": 4,
                 "owner": "omniauth",
                 "repo": "omniauth-github",
-                "stars": 464
+                "stars": 464,
+                "topics": [
+                  "authentication",
+                  "github",
+                  "omniauth",
+                  "omniauth-strategy"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -234,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OmniAuth Oauth2 strategy for weibo.com.",
+                "homepage": null,
                 "id": 3714158,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2025-07-12T04:37:36Z",
+                "open_issues": 0,
                 "owner": "beenhero",
                 "repo": "omniauth-weibo-oauth2",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -250,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A LinkedIn OAuth2 strategy for OmniAuth.",
+                "homepage": null,
                 "id": 8525312,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2024-08-09T11:04:25Z",
+                "open_issues": 29,
                 "owner": "decioferreira",
                 "repo": "omniauth-linkedin-oauth2",
-                "stars": 117
+                "stars": 117,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
@@ -277,12 +392,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track changes to your rails models",
+            "homepage": null,
             "id": 211588,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-05-08T14:55:46Z",
+            "open_issues": 7,
             "owner": "paper-trail-gem",
             "repo": "paper_trail",
-            "stars": 7032
+            "stars": 7032,
+            "topics": [
+              "activerecord",
+              "audit",
+              "log",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -293,12 +419,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.",
+            "homepage": "http://norman.github.io/friendly_id/",
             "id": 10865,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-18T09:19:41Z",
+            "open_issues": 30,
             "owner": "norman",
             "repo": "friendly_id",
-            "stars": 6225
+            "stars": 6225,
+            "topics": [
+              "friendly-url",
+              "plugin",
+              "rails",
+              "ruby",
+              "slug"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -309,12 +446,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)",
+            "homepage": null,
             "id": 1734,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-05T05:51:32Z",
+            "open_issues": 166,
             "owner": "aasm",
             "repo": "aasm",
-            "stars": 5230
+            "stars": 5230,
+            "topics": [
+              "aasm",
+              "activerecord",
+              "hacktoberfest",
+              "mongoid",
+              "rails",
+              "ruby",
+              "state-machine",
+              "transition"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -325,12 +476,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy activity tracking for models - similar to Github's Public Activity",
+            "homepage": null,
             "id": 1421024,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-08T09:44:50Z",
+            "open_issues": 21,
             "owner": "public-activity",
             "repo": "public_activity",
-            "stars": 2990
+            "stars": 2990,
+            "topics": [
+              "activerecord",
+              "activity-stream",
+              "hackertoberfest",
+              "news-feed",
+              "rails",
+              "ruby",
+              "tracking"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -341,12 +505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "acts_as_paranoid for Rails 5, 6 and 7",
+            "homepage": null,
             "id": 904810,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-07T11:11:54Z",
+            "open_issues": 104,
             "owner": "rubysherpas",
             "repo": "paranoia",
-            "stars": 2915
+            "stars": 2915,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -357,12 +526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails I18n de-facto standard library for ActiveRecord model/data translation.",
+            "homepage": null,
             "id": 807517,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T04:22:51Z",
+            "open_issues": 11,
             "owner": "globalize",
             "repo": "globalize",
-            "stars": 2158
+            "stars": 2158,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -373,12 +547,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turbo-charged counter caches for your Rails app.",
+            "homepage": null,
             "id": 4436959,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-08T20:25:19Z",
+            "open_issues": 3,
             "owner": "magnusvk",
             "repo": "counter_culture",
-            "stars": 2118
+            "stars": 2118,
+            "topics": [
+              "activerecord",
+              "counter-cache",
+              "database",
+              "gem",
+              "rails",
+              "ruby",
+              "utility-library"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -389,12 +576,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enumerated attributes with I18n and ActiveRecord/Mongoid support",
+            "homepage": null,
             "id": 3264002,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-04T12:22:05Z",
+            "open_issues": 7,
             "owner": "brainspec",
             "repo": "enumerize",
-            "stars": 1762
+            "stars": 1762,
+            "topics": [
+              "activerecord",
+              "mongoid",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -405,12 +601,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Just the right amount of Rails eager loading",
+            "homepage": null,
             "id": 20772066,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-03-19T14:22:43Z",
+            "open_issues": 7,
             "owner": "salsify",
             "repo": "goldiloader",
-            "stars": 1672
+            "stars": 1672,
+            "topics": [
+              "activerecord",
+              "eager-loading",
+              "gem",
+              "hacktoberfest",
+              "performance",
+              "ruby-on-rails"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -421,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This gem gives every ActiveRecord::Base object the possibility to do a deep clone that includes user specified associations.",
+            "homepage": null,
             "id": 999967,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-02-19T15:28:13Z",
+            "open_issues": 9,
             "owner": "moiristo",
             "repo": "deep_cloneable",
-            "stars": 809
+            "stars": 809,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -437,12 +650,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate scoped sequential IDs for ActiveRecord models",
+            "homepage": "https://rubygems.org/gems/sequenced",
             "id": 3475088,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-11-02T00:28:48Z",
+            "open_issues": 6,
             "owner": "derrickreimer",
             "repo": "sequenced",
-            "stars": 407
+            "stars": 407,
+            "topics": [
+              "activerecord",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -453,12 +674,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association.",
+            "homepage": "https://rails-engine.github.io/action-store/",
             "id": 80890819,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-09-27T15:18:57Z",
+            "open_issues": 3,
             "owner": "rails-engine",
             "repo": "action-store",
-            "stars": 407
+            "stars": 407,
+            "topics": [
+              "activerecord",
+              "bookmark",
+              "favorite",
+              "follow",
+              "followers",
+              "likes",
+              "star",
+              "subscribe",
+              "watch"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -469,12 +705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check how many times url was shared in social networks, e.g. share counts",
+            "homepage": null,
             "id": 24705794,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2018-05-11T11:00:05Z",
+            "open_issues": 4,
             "owner": "Timrael",
             "repo": "social_shares",
-            "stars": 328
+            "stars": 328,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -485,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 2789106,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-01-13T11:02:51Z",
+            "open_issues": 2,
             "owner": "kaize",
             "repo": "validates",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -501,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom counter_cache functionality that supports conditions and multiple models.",
+            "homepage": "https://github.com/cedric/custom_counter_cache",
             "id": 1408200,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-30T18:51:05Z",
+            "open_issues": 10,
             "owner": "cedric",
             "repo": "custom_counter_cache",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -522,12 +773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.",
+                "homepage": "http://mbleigh.lighthouseapp.com/projects/10116-acts-as-taggable-on",
                 "id": 4828,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-07T07:35:14Z",
+                "open_issues": 70,
                 "owner": "mbleigh",
                 "repo": "acts-as-taggable-on",
-                "stars": 4988
+                "stars": 4988,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -538,12 +794,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily and efficiently make your ActiveRecord models support hierarchies",
+                "homepage": "http://closuretree.github.io/closure_tree/",
                 "id": 1764724,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-05T19:26:01Z",
+                "open_issues": 74,
                 "owner": "ClosureTree",
                 "repo": "closure_tree",
-                "stars": 1944
+                "stars": 1944,
+                "topics": [
+                  "activerecord",
+                  "ancestry",
+                  "child",
+                  "closure-tree",
+                  "descendants",
+                  "hierarchies",
+                  "hierarchy",
+                  "nested-hashes",
+                  "nested-set",
+                  "parent",
+                  "rails",
+                  "ruby",
+                  "tree-structure"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
@@ -562,12 +837,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create beautiful JavaScript charts with one line of Ruby",
+            "homepage": "https://chartkick.com",
             "id": 9906653,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-15T21:05:19Z",
+            "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6528
+            "stars": 6528,
+            "topics": [
+              "chartjs",
+              "charts",
+              "google-charts",
+              "highcharts",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -578,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Entity-Relationship Diagrams for Rails applications",
+            "homepage": "http://voormedia.github.io/rails-erd/",
             "id": 923028,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:30:19Z",
+            "open_issues": 1,
             "owner": "voormedia",
             "repo": "rails-erd",
-            "stars": 4105
+            "stars": 4105,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -594,12 +885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML processing filters and utilities",
+            "homepage": null,
             "id": 5262776,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-02T02:52:35Z",
+            "open_issues": 2,
             "owner": "gjtorikian",
             "repo": "html-pipeline",
-            "stars": 2329
+            "stars": 2329,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -610,12 +906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ckeditor 4.x integration gem for rails",
+            "homepage": "https://ckeditor.com/ckeditor-4/",
             "id": 1942140,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-01-23T13:42:18Z",
+            "open_issues": 16,
             "owner": "galetahub",
             "repo": "ckeditor",
-            "stars": 2224
+            "stars": 2224,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -626,12 +927,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple wrapper for posting to slack channels",
+            "homepage": null,
             "id": 12629415,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-04-24T07:03:26Z",
+            "open_issues": 23,
             "owner": "slack-notifier",
             "repo": "slack-notifier",
-            "stars": 1487
+            "stars": 1487,
+            "topics": [
+              "ruby",
+              "slack"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -642,12 +951,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ruby Spreadsheet by ywesee GmbH",
+            "homepage": "http://spreadsheet.ch",
             "id": 4017361,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-21T14:39:37Z",
+            "open_issues": 13,
             "owner": "zdavatz",
             "repo": "spreadsheet",
-            "stars": 1150
+            "stars": 1150,
+            "topics": [
+              "excel",
+              "gplv3",
+              "ruby",
+              "ruby-spreadsheet",
+              "spreadsheet",
+              "xls"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -658,12 +979,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shell commands for development, staging, and production parity for Heroku apps",
+            "homepage": "https://thoughtbot.com",
             "id": 10021706,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-05-23T17:49:50Z",
+            "open_issues": 14,
             "owner": "thoughtbot",
             "repo": "parity",
-            "stars": 892
+            "stars": 892,
+            "topics": [
+              "developer-tools",
+              "heroku-apps",
+              "ruby",
+              "twelve-factor"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -674,12 +1005,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Airbrussh pretties up your SSHKit and Capistrano output",
+            "homepage": null,
             "id": 31054319,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-05T04:50:39Z",
+            "open_issues": 16,
             "owner": "mattbrictson",
             "repo": "airbrussh",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "capistrano",
+              "sshkit"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -690,12 +1029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",
+            "homepage": "https://github.com/amatsuda/kaminari/wiki",
             "id": 221858227,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-01-26T19:53:56Z",
+            "open_issues": 0,
             "owner": "amatsuda",
             "repo": "kaminari",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -712,12 +1056,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated framework for creating REST-like APIs in Ruby.",
+            "homepage": "http://www.ruby-grape.org",
             "id": 812393,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:04:39Z",
+            "open_issues": 237,
             "owner": "ruby-grape",
             "repo": "grape",
-            "stars": 10005
+            "stars": 10005,
+            "topics": [
+              "api",
+              "grape",
+              "hacktoberfest",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -728,12 +1082,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ActiveModel::Serializer implementation and Rails hooks",
+            "homepage": null,
             "id": 2889230,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-12-08T16:12:19Z",
+            "open_issues": 190,
             "owner": "rails-api",
             "repo": "active_model_serializers",
-            "stars": 5341
+            "stars": 5341,
+            "topics": [
+              "json",
+              "resource-serializer",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -744,12 +1107,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.",
+            "homepage": "https://rubydoc.info/github/rest-client/rest-client/master",
             "id": 404319,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-05-19T10:18:13Z",
+            "open_issues": 140,
             "owner": "rest-client",
             "repo": "rest-client",
-            "stars": 5212
+            "stars": 5212,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -760,12 +1128,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jbuilder: generate JSON objects with a Builder-style DSL",
+            "homepage": null,
             "id": 2861056,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-01T17:42:54Z",
+            "open_issues": 46,
             "owner": "rails",
             "repo": "jbuilder",
-            "stars": 4421
+            "stars": 4421,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -776,12 +1149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Map incoming controller parameters to named scopes in your resources",
+            "homepage": null,
             "id": 395276,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-03-27T12:50:52Z",
+            "open_issues": 3,
             "owner": "heartcombo",
             "repo": "has_scope",
-            "stars": 1728
+            "stars": 1728,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -797,12 +1175,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+                "homepage": "https://swagger.io",
                 "id": 2055965,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:47:20Z",
+                "open_issues": 1141,
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28994
+                "stars": 28994,
+                "topics": [
+                  "hacktoberfest",
+                  "oas",
+                  "open-source",
+                  "openapi",
+                  "openapi-specification",
+                  "openapi3",
+                  "openapi31",
+                  "openapi32",
+                  "rest",
+                  "rest-api",
+                  "swagger",
+                  "swagger-api",
+                  "swagger-client",
+                  "swagger-oss",
+                  "swagger-ui"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -813,12 +1212,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Add OAPI/swagger v2.0 compliant documentation to your grape API",
+                "homepage": null,
                 "id": 5107466,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-08-07T14:04:50Z",
+                "open_issues": 132,
                 "owner": "ruby-grape",
                 "repo": "grape-swagger",
-                "stars": 1101
+                "stars": 1101,
+                "topics": [
+                  "api",
+                  "documentation",
+                  "grape",
+                  "oapi",
+                  "ruby",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
@@ -837,12 +1248,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easy file attachment management for ActiveRecord",
+            "homepage": "https://thoughtbot.com",
             "id": 8393,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-13T17:57:58Z",
+            "open_issues": 53,
             "owner": "thoughtbot",
             "repo": "paperclip",
-            "stars": 9022
+            "stars": 9022,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -858,12 +1274,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Offload CarrierWave's image processing and storage to a background process using ActiveJob or Sidekiq.",
+                "homepage": null,
                 "id": 1496951,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-03-02T18:28:42Z",
+                "open_issues": 0,
                 "owner": "lardawge",
                 "repo": "carrierwave_backgrounder",
-                "stars": 738
+                "stars": 738,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -874,12 +1295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This gem allows you to simply optimize CarrierWave images via jpegoptim or optipng.",
+                "homepage": "https://rubygems.org/gems/carrierwave-imageoptimizer",
                 "id": 7758689,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-03-08T15:27:09Z",
+                "open_issues": 4,
                 "owner": "jtescher",
                 "repo": "carrierwave-imageoptimizer",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -890,24 +1316,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Carrierwave extension to crop uploaded images using Jcrop plugin with preview.",
+                "homepage": null,
                 "id": 18689519,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2015-09-08T10:46:57Z",
+                "open_issues": 16,
                 "owner": "kirtithorat",
                 "repo": "carrierwave-crop",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
+            "homepage": "https://github.com/carrierwaveuploader/carrierwave",
             "id": 47087,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-08-28T05:09:59Z",
+            "open_issues": 59,
             "owner": "carrierwaveuploader",
             "repo": "carrierwave",
-            "stars": 8779
+            "stars": 8779,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -918,12 +1354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ruby cloud services library.",
+            "homepage": "http://fog.github.io",
             "id": 203666,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-11-19T13:42:48Z",
+            "open_issues": 9,
             "owner": "fog",
             "repo": "fog",
-            "stars": 4298
+            "stars": 4298,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -934,12 +1375,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "File Attachment toolkit for Ruby applications",
+            "homepage": "https://shrinerb.com",
             "id": 44935124,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:33:42Z",
+            "open_issues": 0,
             "owner": "shrinerb",
             "repo": "shrine",
-            "stars": 3285
+            "stars": 3285,
+            "topics": [
+              "attachment",
+              "background-jobs",
+              "direct-upload",
+              "file-upload",
+              "filesystem",
+              "metadata",
+              "orm",
+              "rack",
+              "ruby",
+              "s3",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -950,12 +1408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mini replacement for RMagick",
+            "homepage": "https://rubydoc.info/gems/mini_magick",
             "id": 2727,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-06T06:18:24Z",
+            "open_issues": 1,
             "owner": "minimagick",
             "repo": "minimagick",
-            "stars": 2864
+            "stars": 2864,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -966,12 +1429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby file uploads, take 3",
+            "homepage": null,
             "id": 26870928,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-07-01T17:43:36Z",
+            "open_issues": 26,
             "owner": "refile",
             "repo": "refile",
-            "stars": 2433
+            "stars": 2433,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -982,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails jQuery file uploads via standard Rails \"remote: true\" forms.",
+            "homepage": "http://os.alfajango.com/remotipart",
             "id": 1322564,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-23T13:16:38Z",
+            "open_issues": 42,
             "owner": "JangoSteve",
             "repo": "remotipart",
-            "stars": 998
+            "stars": 998,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -1004,12 +1477,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intelligent search made easy",
+            "homepage": null,
             "id": 11412473,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:39:32Z",
+            "open_issues": 9,
             "owner": "ankane",
             "repo": "searchkick",
-            "stars": 6721
+            "stars": 6721,
+            "topics": [
+              "elasticsearch",
+              "opensearch",
+              "rails"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1020,12 +1502,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Object-based searching. ",
+            "homepage": "https://activerecord-hackery.github.io/ransack/",
             "id": 1548802,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-05-31T20:24:55Z",
+            "open_issues": 156,
             "owner": "activerecord-hackery",
             "repo": "ransack",
-            "stars": 5863
+            "stars": 5863,
+            "topics": [
+              "activerecord",
+              "rails",
+              "ruby",
+              "ruby-gem",
+              "ruby-library",
+              "ruby-on-rails",
+              "search",
+              "search-interface",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1036,12 +1533,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails",
+            "homepage": null,
             "id": 14238949,
             "language": "Ruby",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-08T13:42:09Z",
+            "open_issues": 53,
             "owner": "elastic",
             "repo": "elasticsearch-rails",
-            "stars": 3084
+            "stars": 3084,
+            "topics": [
+              "activemodel",
+              "activerecord",
+              "elastic",
+              "elasticsearch",
+              "rails",
+              "ruby",
+              "ruby-on-rails"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1052,12 +1562,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solr-powered search for Ruby objects",
+            "homepage": "http://sunspot.github.com/",
             "id": 62509,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T07:11:14Z",
+            "open_issues": 152,
             "owner": "sunspot",
             "repo": "sunspot",
-            "stars": 2979
+            "stars": 2979,
+            "topics": [
+              "ruby",
+              "solr",
+              "solr-search-engine",
+              "sunspot"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1068,12 +1588,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client",
+            "homepage": null,
             "id": 15042048,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-26T09:02:34Z",
+            "open_issues": 4,
             "owner": "toptal",
             "repo": "chewy",
-            "stars": 1901
+            "stars": 1901,
+            "topics": [
+              "elasticsearch",
+              "elasticsearch-client",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1084,12 +1613,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pg_search builds ActiveRecord named scopes that take advantage of PostgreSQL’s full text search ",
+            "homepage": "http://www.casebook.net",
             "id": 1254797,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-10T20:39:42Z",
+            "open_issues": 155,
             "owner": "Casecommons",
             "repo": "pg_search",
-            "stars": 1576
+            "stars": 1576,
+            "topics": [
+              "activerecord",
+              "metaphone",
+              "multi-search",
+              "pg-search",
+              "postgresql",
+              "ruby",
+              "search",
+              "trigrams",
+              "tsearch"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -1111,24 +1655,50 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scheduler / Cron for Sidekiq jobs",
+                "homepage": null,
                 "id": 12357002,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-05-27T14:26:21Z",
+                "open_issues": 3,
                 "owner": "sidekiq-cron",
                 "repo": "sidekiq-cron",
-                "stars": 1945
+                "stars": 1945,
+                "topics": [
+                  "cron-jobs",
+                  "ruby",
+                  "ruby-gem",
+                  "ruby-on-rails",
+                  "scheduled-jobs",
+                  "scheduler",
+                  "sidekiq",
+                  "sidekiq-cron",
+                  "sidekiq-jobs",
+                  "sidekiq-workers"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Simple, efficient background processing for Ruby",
+            "homepage": "https://sidekiq.org",
             "id": 3195124,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T17:39:39Z",
+            "open_issues": 22,
             "owner": "sidekiq",
             "repo": "sidekiq",
-            "stars": 13553
+            "stars": 13553,
+            "topics": [
+              "background-jobs",
+              "jobs",
+              "ruby",
+              "sidekiq"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1139,12 +1709,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
+            "homepage": "http://resque.github.io/",
             "id": 275604,
             "language": "Ruby",
-            "last_commit": "2026-07-28T13:56:54Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:06:06Z",
+            "open_issues": 91,
             "owner": "resque",
             "repo": "resque",
-            "stars": 9479
+            "stars": 9479,
+            "topics": [
+              "asynchronous-tasks",
+              "asynctask",
+              "background-jobs",
+              "background-service",
+              "background-worker",
+              "job-management",
+              "job-queue",
+              "job-scheduler",
+              "queue",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1155,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cron jobs in Ruby",
+            "homepage": null,
             "id": 129791,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-01T22:45:54Z",
+            "open_issues": 84,
             "owner": "javan",
             "repo": "whenever",
-            "stars": 8859
+            "stars": 8859,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1171,12 +1762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Database based asynchronous priority queue system -- Extracted from Shopify ",
+            "homepage": "http://groups.google.com/group/delayed_job",
             "id": 52287,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-13T21:45:00Z",
+            "open_issues": 143,
             "owner": "collectiveidea",
             "repo": "delayed_job",
-            "stars": 4825
+            "stars": 4825,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1187,12 +1783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sucker Punch is a Ruby asynchronous processing library using concurrent-ruby, heavily influenced by Sidekiq and girl_friday.",
+            "homepage": null,
             "id": 7705565,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-12-24T00:47:08Z",
+            "open_issues": 2,
             "owner": "brandonhilkert",
             "repo": "sucker_punch",
-            "stars": 2630
+            "stars": 2630,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1203,12 +1804,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "scheduler for Ruby (at, in, cron and every jobs)",
+            "homepage": null,
             "id": 6094,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-22T22:44:36Z",
+            "open_issues": 12,
             "owner": "jmettraux",
             "repo": "rufus-scheduler",
-            "stars": 2446
+            "stars": 2446,
+            "topics": [
+              "cron",
+              "ruby",
+              "scheduler",
+              "time"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -1225,12 +1836,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+            "homepage": null,
             "id": 451035,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-01T23:20:59Z",
+            "open_issues": 37,
             "owner": "heartcombo",
             "repo": "simple_form",
-            "stars": 8229
+            "stars": 8229,
+            "topics": [
+              "dsl",
+              "form-builder",
+              "rails",
+              "rails-helper",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1241,12 +1863,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rails form builder plugin with semantically rich and accessible markup.",
+            "homepage": null,
             "id": 7497,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-02-28T05:30:10Z",
+            "open_issues": 6,
             "owner": "formtastic",
             "repo": "formtastic",
-            "stars": 5216
+            "stars": 5216,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1257,12 +1884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms",
+            "homepage": "http://github.com/nathanvda/cocoon",
             "id": 1347323,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-08-08T14:11:26Z",
+            "open_issues": 34,
             "owner": "nathanvda",
             "repo": "cocoon",
-            "stars": 3072
+            "stars": 3072,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1273,12 +1905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View components for Ruby and Rails.",
+            "homepage": "https://trailblazer.to/2.1/docs/cells.html",
             "id": 40407,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-12-02T09:00:38Z",
+            "open_issues": 38,
             "owner": "trailblazer",
             "repo": "cells",
-            "stars": 3071
+            "stars": 3071,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1289,12 +1926,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search Engine Optimization (SEO) for Ruby on Rails applications.",
+            "homepage": null,
             "id": 53374,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-18T00:23:52Z",
+            "open_issues": 16,
             "owner": "kpumuk",
             "repo": "meta-tags",
-            "stars": 2802
+            "stars": 2802,
+            "topics": [
+              "meta-tags",
+              "opengraph",
+              "opengraph-tags",
+              "rails",
+              "ruby",
+              "search-engine-optimization",
+              "seo",
+              "seo-meta",
+              "seotools",
+              "twitter-cards",
+              "webmasters"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1305,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rails plugin to conveniently handle multiple models in a single form.",
+            "homepage": null,
             "id": 468501,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2021-12-11T21:47:06Z",
+            "open_issues": 83,
             "owner": "ryanb",
             "repo": "nested_form",
-            "stars": 1780
+            "stars": 1780,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1321,12 +1980,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails view helper to manage \"active\" state of a link",
+            "homepage": null,
             "id": 1400705,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-04-07T09:40:49Z",
+            "open_issues": 10,
             "owner": "comfy",
             "repo": "active_link_to",
-            "stars": 854
+            "stars": 854,
+            "topics": [
+              "navigation",
+              "rails"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1337,12 +2004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rails select form helper using country codes for I18n translations",
+            "homepage": null,
             "id": 3769756,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-02-14T07:46:05Z",
+            "open_issues": 6,
             "owner": "onomojo",
             "repo": "i18n_country_select",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1353,12 +2025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":earth_africa: A Rails plugin to populate a state/province select box from country_select",
+            "homepage": null,
             "id": 34861641,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-01-22T10:53:08Z",
+            "open_issues": 4,
             "owner": "cllns",
             "repo": "subdivision_select",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -1375,12 +2052,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby gem to load environment variables from `.env`. ",
+            "homepage": null,
             "id": 5160706,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-22T16:42:21Z",
+            "open_issues": 17,
             "owner": "bkeepers",
             "repo": "dotenv",
-            "stars": 6763
+            "stars": 6763,
+            "topics": [
+              "dotenv",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1391,12 +2076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Rails app configuration",
+            "homepage": null,
             "id": 3910382,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-06-29T16:07:40Z",
+            "open_issues": 60,
             "owner": "laserlemon",
             "repo": "figaro",
-            "stars": 3745
+            "stars": 3745,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1407,12 +2097,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easiest way to add multi-environment yaml settings to Rails, Sinatra, Padrino and other Ruby projects.",
+            "homepage": null,
             "id": 572993,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T17:41:32Z",
+            "open_issues": 25,
             "owner": "rubyconfig",
             "repo": "config",
-            "stars": 2170
+            "stars": 2170,
+            "topics": [
+              "config",
+              "configuration",
+              "configuration-management",
+              "environment-variables",
+              "environments",
+              "padrino",
+              "rails",
+              "ruby",
+              "ruby-on-rails",
+              "settings",
+              "sinatra"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1423,12 +2130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 21429009,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-02-06T17:07:56Z",
+            "open_issues": 1,
             "owner": "mikamai",
             "repo": "opsworks-dotenv",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -1445,12 +2157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data",
+            "homepage": null,
             "id": 810796,
             "language": "Ruby",
-            "last_commit": "2026-08-28T09:21:36Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:53:25Z",
+            "open_issues": 199,
             "owner": "railsadminteam",
             "repo": "rails_admin",
-            "stars": 7957
+            "stars": 7957,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1461,12 +2178,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rails engine that helps you put together a super-flexible admin dashboard.",
+            "homepage": "http://administrate-demo.herokuapp.com",
             "id": 33739333,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:04:08Z",
+            "open_issues": 134,
             "owner": "thoughtbot",
             "repo": "administrate",
-            "stars": 6031
+            "stars": 6031,
+            "topics": [
+              "admin-dashboard",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1477,12 +2203,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern, responsive admin framework for Ruby on Rails",
+            "homepage": "https://trestle.io",
             "id": 67960206,
             "language": "Ruby",
+            "license": "LGPL-3.0",
             "last_commit": "2025-09-25T12:30:55Z",
+            "open_issues": 122,
             "owner": "TrestleAdmin",
             "repo": "trestle",
-            "stars": 1992
+            "stars": 1992,
+            "topics": [
+              "admin-dashboard",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1498,12 +2233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flat skin for active admin.",
+                "homepage": null,
                 "id": 19360491,
                 "language": "Sass",
+                "license": "MIT",
                 "last_commit": "2023-01-20T11:20:20Z",
+                "open_issues": 17,
                 "owner": "SoftwareBrothers",
                 "repo": "active_skin",
-                "stars": 423
+                "stars": 423,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
@@ -1522,12 +2262,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, powerful, first-party analytics for Rails",
+            "homepage": null,
             "id": 17204381,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-17T05:37:32Z",
+            "open_issues": 6,
             "owner": "ankane",
             "repo": "ahoy",
-            "stars": 4481
+            "stars": 4481,
+            "topics": [
+              "analytics",
+              "events",
+              "first-party-analytics",
+              "rails",
+              "visits"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1538,12 +2289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An attempt to tame Rails' default policy to log everything.",
+            "homepage": "http://www.paperplanes.de/2012/3/14/on-notifications-logsubscribers-and-bringing-sanity-to-rails-logging.html",
             "id": 3677872,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-08T15:18:58Z",
+            "open_issues": 69,
             "owner": "roidrage",
             "repo": "lograge",
-            "stars": 3572
+            "stars": 3572,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1554,12 +2310,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails Plugin that tracks impressions and page views",
+            "homepage": null,
             "id": 1326875,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-02-08T22:01:16Z",
+            "open_issues": 81,
             "owner": "charlotte-ruby",
             "repo": "impressionist",
-            "stars": 1527
+            "stars": 1527,
+            "topics": [
+              "counts-impressions",
+              "impression",
+              "impressions-table",
+              "logging-impressions",
+              "ruby",
+              "unique-impressions"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -1576,12 +2344,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send User Notifications on macOS from the command-line.",
+            "homepage": null,
             "id": 5057307,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T12:20:55Z",
+            "open_issues": 7,
             "owner": "julienXX",
             "repo": "terminal-notifier",
-            "stars": 7299
+            "stars": 7299,
+            "topics": [
+              "command-line",
+              "notifications",
+              "objective-c",
+              "osx",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1597,24 +2376,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Retrieve the binding of a method's caller in MRI 1.9.2+",
+                "homepage": null,
                 "id": 2585324,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-15T13:09:42Z",
+                "open_issues": 3,
                 "owner": "banister",
                 "repo": "binding_of_caller",
-                "stars": 672
+                "stars": 672,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Better error page for Rack apps",
+            "homepage": null,
             "id": 7066560,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-07-09T08:00:44Z",
+            "open_issues": 68,
             "owner": "BetterErrors",
             "repo": "better_errors",
-            "stars": 6862
+            "stars": 6862,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1625,12 +2414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretty print your Ruby objects with style -- in full color and with proper indentation",
+            "homepage": "http://github.com/michaeldv/awesome_print",
             "id": 592743,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-08-15T20:03:46Z",
+            "open_issues": 110,
             "owner": "awesome-print",
             "repo": "awesome_print",
-            "stars": 4078
+            "stars": 4078,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1641,12 +2435,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome extension for Rails development",
+            "homepage": "https://chromewebstore.google.com/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg",
             "id": 6747983,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-27T21:45:10Z",
+            "open_issues": 26,
             "owner": "dejan",
             "repo": "rails_panel",
-            "stars": 3868
+            "stars": 3868,
+            "topics": [
+              "chrome-extension",
+              "ruby-on-rails"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1657,12 +2459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preview mail in the browser instead of sending.",
+            "homepage": null,
             "id": 2344621,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-25T13:24:46Z",
+            "open_issues": 7,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3842
+            "stars": 3842,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1678,24 +2485,45 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Step-by-step debugging and stack navigation in Pry",
+                "homepage": null,
                 "id": 9824738,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-05-18T15:11:27Z",
+                "open_issues": 48,
                 "owner": "deivid-rodriguez",
                 "repo": "pry-byebug",
-                "stars": 2029
+                "stars": 2029,
+                "topics": [
+                  "debugger",
+                  "pry",
+                  "pry-byebug",
+                  "repl",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Debugging in Ruby",
+            "homepage": null,
             "id": 8863313,
             "language": "Ruby",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-27T03:09:11Z",
+            "open_issues": 93,
             "owner": "deivid-rodriguez",
             "repo": "byebug",
-            "stars": 3349
+            "stars": 3349,
+            "topics": [
+              "byebug",
+              "debugger",
+              "repl",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1706,12 +2534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails application preloader",
+            "homepage": null,
             "id": 7362671,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-30T16:30:38Z",
+            "open_issues": 55,
             "owner": "rails",
             "repo": "spring",
-            "stars": 2815
+            "stars": 2815,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1722,12 +2555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Every Rails page has footnotes that gives information about your application and links back to your editor",
+            "homepage": null,
             "id": 92826,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-26T11:02:53Z",
+            "open_issues": 15,
             "owner": "indirect",
             "repo": "rails-footnotes",
-            "stars": 1522
+            "stars": 1522,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1738,12 +2576,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails Console on the Browser.",
+            "homepage": null,
             "id": 12496351,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-02-23T19:32:06Z",
+            "open_issues": 14,
             "owner": "rails",
             "repo": "web-console",
-            "stars": 1436
+            "stars": 1436,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1754,12 +2597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails >= 3 pry initializer",
+            "homepage": null,
             "id": 2278820,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-06-20T01:31:49Z",
+            "open_issues": 29,
             "owner": "pry",
             "repo": "pry-rails",
-            "stars": 1361
+            "stars": 1361,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1770,12 +2618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Kernel.g that works like Kernel.p by using terminal-notifier or growl.",
+            "homepage": "http://github.com/jugyo/g",
             "id": 206753,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2013-07-31T16:30:17Z",
+            "open_issues": 17,
             "owner": "jugyo",
             "repo": "g",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -1792,12 +2645,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+            "homepage": "https://docs.rubocop.org",
             "id": 4095287,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:17:49Z",
+            "open_issues": 144,
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12898
+            "stars": 12898,
+            "topics": [
+              "code-formatter",
+              "hacktoberfest",
+              "linter",
+              "rubocop",
+              "ruby",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1808,12 +2673,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quick automated code review of your changes",
+            "homepage": null,
             "id": 11131276,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-05-04T04:55:10Z",
+            "open_issues": 15,
             "owner": "prontolabs",
             "repo": "pronto",
-            "stars": 2670
+            "stars": 2670,
+            "topics": [
+              "automated-analysis",
+              "automated-review",
+              "bitbucket",
+              "formatter",
+              "gitlab",
+              "linters",
+              "review"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1824,12 +2702,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fist full of code metrics",
+            "homepage": "http://metricfu.github.com/metric_fu",
             "id": 4979793,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-02-27T06:07:37Z",
+            "open_issues": 31,
             "owner": "metricfu",
             "repo": "metric_fu",
-            "stars": 627
+            "stars": 627,
+            "topics": [
+              "code-quality",
+              "hacktoberfest",
+              "maintainability",
+              "software-quality"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -1851,12 +2739,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A PhantomJS driver for Capybara",
+                "homepage": null,
                 "id": 2661753,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2019-09-27T15:03:45Z",
+                "open_issues": 12,
                 "owner": "teampoltergeist",
                 "repo": "poltergeist",
-                "stars": 2483
+                "stars": 2483,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -1867,12 +2760,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Capybara driver for headless WebKit to test JavaScript web apps",
+                "homepage": "https://thoughtbot.com/open-source",
                 "id": 1409544,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-03-03T15:09:01Z",
+                "open_issues": 30,
                 "owner": "thoughtbot",
                 "repo": "capybara-webkit",
-                "stars": 1952
+                "stars": 1952,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -1883,12 +2781,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver",
+                "homepage": null,
                 "id": 1728610,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-05-03T01:39:19Z",
+                "open_issues": 28,
                 "owner": "cheezy",
                 "repo": "page-object",
-                "stars": 648
+                "stars": 648,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -1899,24 +2802,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Personal import of the selenium-webdriver for ruby",
+                "homepage": "http://selenium.googlecode.com/svn/trunk/rb/",
                 "id": 1986539,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2015-12-17T21:11:53Z",
+                "open_issues": 3,
                 "owner": "vertis",
                 "repo": "selenium-webdriver",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Acceptance test framework for web applications",
+            "homepage": "http://teamcapybara.github.io/capybara/",
             "id": 361310,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-13T14:52:49Z",
+            "open_issues": 21,
             "owner": "teamcapybara",
             "repo": "capybara",
-            "stars": 10170
+            "stars": 10170,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1927,12 +2842,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for setting up Ruby objects as test data.",
+            "homepage": "https://thoughtbot.com",
             "id": 21829,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-21T15:39:33Z",
+            "open_issues": 78,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8169
+            "stars": 8169,
+            "topics": [
+              "factories",
+              "factory-bot",
+              "factory-girl",
+              "fixtures",
+              "rails",
+              "ruby",
+              "rubygems",
+              "testing",
+              "thoughtbot"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1943,12 +2873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.",
+            "homepage": "https://benoittgt.github.io/vcr",
             "id": 535266,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-23T06:33:13Z",
+            "open_issues": 87,
             "owner": "vcr",
             "repo": "vcr",
-            "stars": 6076
+            "stars": 6076,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1959,12 +2894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RSpec for Rails 7+",
+            "homepage": "https://rspec.info",
             "id": 447184,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:44:37Z",
+            "open_issues": 68,
             "owner": "rspec",
             "repo": "rspec-rails",
-            "stars": 5270
+            "stars": 5270,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1975,12 +2915,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites",
+            "homepage": null,
             "id": 839336,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-26T02:51:29Z",
+            "open_issues": 1,
             "owner": "simplecov-ruby",
             "repo": "simplecov",
-            "stars": 4919
+            "stars": 4919,
+            "topics": [
+              "code-quality",
+              "coverage",
+              "coverage-library",
+              "coverage-report",
+              "rails",
+              "ruby",
+              "test-coverage"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -1991,12 +2944,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple one-liner tests for common Rails functionality",
+            "homepage": "https://matchers.shoulda.io",
             "id": 1172597,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-10T13:14:13Z",
+            "open_issues": 42,
             "owner": "thoughtbot",
             "repo": "shoulda-matchers",
-            "stars": 3581
+            "stars": 3581,
+            "topics": [
+              "rails",
+              "rspec",
+              "ruby",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2007,12 +2970,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gem providing \"time travel\", \"time freezing\", and \"time acceleration\" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.",
+            "homepage": null,
             "id": 72991,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-12T15:27:41Z",
+            "open_issues": 11,
             "owner": "travisjeffery",
             "repo": "timecop",
-            "stars": 3425
+            "stars": 3425,
+            "topics": [
+              "rails",
+              "ruby",
+              "test",
+              "time"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2023,12 +2996,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Factory Bot ♥ Rails",
+            "homepage": "https://thoughtbot.com/services/ruby-on-rails",
             "id": 683939,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-21T12:19:09Z",
+            "open_issues": 8,
             "owner": "thoughtbot",
             "repo": "factory_bot_rails",
-            "stars": 3137
+            "stars": 3137,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2039,12 +3017,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strategies for cleaning databases in Ruby.  Can be used to ensure a clean state for testing.",
+            "homepage": "https://www.rubydoc.info/github/DatabaseCleaner/database_cleaner",
             "id": 143489,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-01T18:01:14Z",
+            "open_issues": 31,
             "owner": "DatabaseCleaner",
             "repo": "database_cleaner",
-            "stars": 2965
+            "stars": 2965,
+            "topics": [
+              "database-cleaner",
+              "ruby",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2055,12 +3043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provide rspec matchers to match http response code",
+            "homepage": null,
             "id": 6898698,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-06-05T19:53:50Z",
+            "open_issues": 0,
             "owner": "r7kamura",
             "repo": "response_code_matchers",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2071,12 +3064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gem that helps you generate your factory files.",
+            "homepage": null,
             "id": 40402163,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2015-08-25T15:32:34Z",
+            "open_issues": 0,
             "owner": "st0012",
             "repo": "factory_factory_girl",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2089,12 +3087,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A static analysis security vulnerability scanner for Ruby on Rails applications",
+                "homepage": "https://brakemanscanner.org/",
                 "id": 865250,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T17:08:16Z",
+                "open_issues": 114,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7265
+                "stars": 7265,
+                "topics": [
+                  "brakeman",
+                  "rails",
+                  "ruby",
+                  "security",
+                  "security-audit",
+                  "security-tools",
+                  "security-vulnerability",
+                  "static-analysis",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -2105,12 +3118,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Manages application of security headers with many safe defaults",
+                "homepage": null,
                 "id": 7122663,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2026-07-27T15:57:10Z",
+                "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3228
+                "stars": 3228,
+                "topics": [
+                  "content-security-policy",
+                  "cookie",
+                  "csp",
+                  "hsts",
+                  "middleware",
+                  "rack",
+                  "referrer-policy",
+                  "ruby",
+                  "secure-headers",
+                  "xframe-options"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             },
@@ -2121,12 +3150,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Patch-level verification for Bundler",
+                "homepage": null,
                 "id": 8133216,
                 "language": "Ruby",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-15T22:59:40Z",
+                "open_issues": 48,
                 "owner": "rubysec",
                 "repo": "bundler-audit",
-                "stars": 2757
+                "stars": 2757,
+                "topics": [
+                  "bundler-audit",
+                  "dependency-checker",
+                  "patch-management",
+                  "ruby",
+                  "ruby-advisory-db",
+                  "security",
+                  "security-audit",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
             }
@@ -2148,12 +3191,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deployment automation tool built on Ruby, Rake, and SSH.",
+            "homepage": "http://www.capistranorb.com",
             "id": 138312,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-19T03:53:28Z",
+            "open_issues": 65,
             "owner": "capistrano",
             "repo": "capistrano",
-            "stars": 12987
+            "stars": 12987,
+            "topics": [
+              "capistrano",
+              "deployment",
+              "ruby",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2164,12 +3217,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rack middleware for blocking & throttling",
+            "homepage": null,
             "id": 5219382,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-02T20:27:09Z",
+            "open_issues": 19,
             "owner": "rack",
             "repo": "rack-attack",
-            "stars": 5763
+            "stars": 5763,
+            "topics": [
+              "rack",
+              "rack-attack",
+              "rack-middleware",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2180,12 +3243,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazing fast deployer and server automation tool",
+            "homepage": "https://rubygems.org/gems/mina",
             "id": 4518079,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-01T23:49:40Z",
+            "open_issues": 35,
             "owner": "mina-deploy",
             "repo": "mina",
-            "stars": 4355
+            "stars": 4355,
+            "topics": [
+              "deployment",
+              "mina",
+              "rails",
+              "ruby",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2196,12 +3270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best practices for running Rails in production",
+            "homepage": null,
             "id": 23554554,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2026-03-31T20:38:05Z",
+            "open_issues": 0,
             "owner": "ankane",
             "repo": "production_rails",
-            "stars": 2319
+            "stars": 2319,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2212,12 +3291,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of Rails responders to dry up your application",
+            "homepage": null,
             "id": 392785,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:14:41Z",
+            "open_issues": 6,
             "owner": "heartcombo",
             "repo": "responders",
-            "stars": 2058
+            "stars": 2058,
+            "topics": [
+              "controllers",
+              "flash-messages",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2228,12 +3317,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rack::Timeout enhancements for Rails",
+            "homepage": null,
             "id": 25561827,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-04T20:48:50Z",
+            "open_issues": 0,
             "owner": "ankane",
             "repo": "slowpoke",
-            "stars": 395
+            "stars": 395,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -2250,12 +3344,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source error catcher that's Airbrake API compliant :ukraine:",
+            "homepage": "https://errbit.com",
             "id": 816197,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:30:09Z",
+            "open_issues": 143,
             "owner": "errbit",
             "repo": "errbit",
-            "stars": 4271
+            "stars": 4271,
+            "topics": [
+              "airbrake",
+              "crash-reporting",
+              "error-monitoring",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2266,12 +3370,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Airbrake library for Ruby applications",
+            "homepage": "https://airbrake.io",
             "id": 2263819,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-12-21T01:08:22Z",
+            "open_issues": 20,
             "owner": "airbrake",
             "repo": "airbrake",
-            "stars": 985
+            "stars": 985,
+            "topics": [
+              "airbrake",
+              "apm",
+              "capistrano",
+              "crash-reporting",
+              "delayed-job",
+              "error-monitoring",
+              "logger",
+              "performance-monitoring",
+              "rails",
+              "rake",
+              "resque",
+              "ruby",
+              "shoryuken",
+              "sidekiq",
+              "sinatra",
+              "sneakers"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         },
@@ -2282,12 +3408,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exception tracking and logging from Ruby to Rollbar",
+            "homepage": "https://docs.rollbar.com/docs/ruby",
             "id": 5556347,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-05-06T20:10:28Z",
+            "open_issues": 45,
             "owner": "rollbar",
             "repo": "rollbar-gem",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "crash-reporting",
+              "crash-reports",
+              "error-handler",
+              "error-monitoring",
+              "error-reporting",
+              "exceptions",
+              "observability",
+              "rack-middleware",
+              "rails",
+              "resque",
+              "rollbar",
+              "ruby",
+              "sinatra",
+              "stacktrace",
+              "uncaught-exceptions"
+            ]
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -2304,12 +3451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails Database Viewer and SQL Query Runner",
+            "homepage": "https://www.railsjazz.com/",
             "id": 44268071,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-19T21:27:58Z",
+            "open_issues": 8,
             "owner": "igorkasyanchuk",
             "repo": "rails_db",
-            "stars": 1496
+            "stars": 1496,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -2326,12 +3478,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ExecJS runtime with persistent connection to nodejs",
+            "homepage": null,
             "id": 31079004,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-11-14T15:27:35Z",
+            "open_issues": 0,
             "owner": "mavenlink",
             "repo": "alaska",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
         }
@@ -2340,15 +3497,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:58:19.273Z",
+    "last_updated": "2026-08-29T04:23:12.661Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of awesome Ruby Gems for Rails development.",
+      "homepage": null,
       "id": 27949922,
       "language": "Ruby",
+      "license": null,
       "last_commit": "2024-03-12T22:04:35Z",
+      "open_issues": 27,
       "owner": "hothero",
       "repo": "awesome-rails-gem",
-      "stars": 2805
+      "stars": 2805,
+      "topics": []
     },
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",
     "enhanced_repository": "enhansome/enhansome-rails-gem",

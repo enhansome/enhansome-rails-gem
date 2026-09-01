@@ -21,7 +21,7 @@
                 "open_issues": 233,
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24357,
+                "stars": 24358,
                 "topics": [
                   "authentication",
                   "devise",
@@ -103,7 +103,7 @@
                 "open_issues": 61,
                 "owner": "nsarno",
                 "repo": "knock",
-                "stars": 2054,
+                "stars": 2053,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
@@ -157,7 +157,7 @@
                 "open_issues": 13,
                 "owner": "varvet",
                 "repo": "pundit",
-                "stars": 8521,
+                "stars": 8520,
                 "topics": [
                   "ruby"
                 ]
@@ -180,7 +180,7 @@
                 "open_issues": 92,
                 "owner": "CanCanCommunity",
                 "repo": "cancancan",
-                "stars": 5685,
+                "stars": 5684,
                 "topics": [
                   "authorization",
                   "cancancan",
@@ -205,7 +205,7 @@
                 "open_issues": 152,
                 "owner": "RolifyCommunity",
                 "repo": "rolify",
-                "stars": 3177,
+                "stars": 3176,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
@@ -250,7 +250,7 @@
                 "id": 2704356,
                 "language": "Ruby",
                 "license": null,
-                "last_commit": "2026-06-11T00:57:06Z",
+                "last_commit": "2026-08-31T23:49:04Z",
                 "open_issues": 0,
                 "owner": "zquestz",
                 "repo": "omniauth-google-oauth2",
@@ -401,7 +401,7 @@
             "open_issues": 7,
             "owner": "paper-trail-gem",
             "repo": "paper_trail",
-            "stars": 7031,
+            "stars": 7029,
             "topics": [
               "activerecord",
               "audit",
@@ -428,7 +428,7 @@
             "open_issues": 31,
             "owner": "norman",
             "repo": "friendly_id",
-            "stars": 6225,
+            "stars": 6224,
             "topics": [
               "friendly-url",
               "plugin",
@@ -455,7 +455,7 @@
             "open_issues": 166,
             "owner": "aasm",
             "repo": "aasm",
-            "stars": 5229,
+            "stars": 5230,
             "topics": [
               "aasm",
               "activerecord",
@@ -514,7 +514,7 @@
             "open_issues": 104,
             "owner": "rubysherpas",
             "repo": "paranoia",
-            "stars": 2916,
+            "stars": 2914,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -535,7 +535,7 @@
             "open_issues": 11,
             "owner": "globalize",
             "repo": "globalize",
-            "stars": 2158,
+            "stars": 2157,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -556,7 +556,7 @@
             "open_issues": 3,
             "owner": "magnusvk",
             "repo": "counter_culture",
-            "stars": 2118,
+            "stars": 2117,
             "topics": [
               "activerecord",
               "counter-cache",
@@ -610,7 +610,7 @@
             "open_issues": 7,
             "owner": "salsify",
             "repo": "goldiloader",
-            "stars": 1672,
+            "stars": 1670,
             "topics": [
               "activerecord",
               "eager-loading",
@@ -782,7 +782,7 @@
                 "open_issues": 70,
                 "owner": "mbleigh",
                 "repo": "acts-as-taggable-on",
-                "stars": 4988,
+                "stars": 4987,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:58:19.273Z"
@@ -846,7 +846,7 @@
             "open_issues": 7,
             "owner": "ankane",
             "repo": "chartkick",
-            "stars": 6528,
+            "stars": 6527,
             "topics": [
               "chartjs",
               "charts",
@@ -936,7 +936,7 @@
             "open_issues": 23,
             "owner": "slack-notifier",
             "repo": "slack-notifier",
-            "stars": 1487,
+            "stars": 1486,
             "topics": [
               "ruby",
               "slack"
@@ -1061,11 +1061,11 @@
             "id": 812393,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:37:46Z",
-            "open_issues": 237,
+            "last_commit": "2026-09-01T11:45:14Z",
+            "open_issues": 239,
             "owner": "ruby-grape",
             "repo": "grape",
-            "stars": 10005,
+            "stars": 10004,
             "topics": [
               "api",
               "grape",
@@ -1158,7 +1158,7 @@
             "open_issues": 3,
             "owner": "heartcombo",
             "repo": "has_scope",
-            "stars": 1728,
+            "stars": 1727,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1180,11 +1180,11 @@
                 "id": 2055965,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T09:03:32Z",
+                "last_commit": "2026-09-01T09:58:41Z",
                 "open_issues": 1140,
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 28992,
+                "stars": 28995,
                 "topics": [
                   "hacktoberfest",
                   "oas",
@@ -1257,7 +1257,7 @@
             "open_issues": 53,
             "owner": "thoughtbot",
             "repo": "paperclip",
-            "stars": 9022,
+            "stars": 9017,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1339,7 +1339,7 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2026-08-30T13:14:49Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "carrierwaveuploader",
             "repo": "carrierwave",
             "stars": 8776,
@@ -1486,7 +1486,7 @@
             "open_issues": 9,
             "owner": "ankane",
             "repo": "searchkick",
-            "stars": 6721,
+            "stars": 6720,
             "topics": [
               "elasticsearch",
               "opensearch",
@@ -1511,7 +1511,7 @@
             "open_issues": 156,
             "owner": "activerecord-hackery",
             "repo": "ransack",
-            "stars": 5862,
+            "stars": 5861,
             "topics": [
               "activerecord",
               "rails",
@@ -1542,7 +1542,7 @@
             "open_issues": 53,
             "owner": "elastic",
             "repo": "elasticsearch-rails",
-            "stars": 3084,
+            "stars": 3083,
             "topics": [
               "activemodel",
               "activerecord",
@@ -1664,7 +1664,7 @@
                 "open_issues": 3,
                 "owner": "sidekiq-cron",
                 "repo": "sidekiq-cron",
-                "stars": 1945,
+                "stars": 1943,
                 "topics": [
                   "cron-jobs",
                   "ruby",
@@ -1692,7 +1692,7 @@
             "open_issues": 22,
             "owner": "sidekiq",
             "repo": "sidekiq",
-            "stars": 13555,
+            "stars": 13554,
             "topics": [
               "background-jobs",
               "jobs",
@@ -1714,11 +1714,11 @@
             "id": 275604,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-31T14:22:41Z",
+            "last_commit": "2026-08-31T21:50:39Z",
             "open_issues": 82,
             "owner": "resque",
             "repo": "resque",
-            "stars": 9480,
+            "stars": 9481,
             "topics": [
               "asynchronous-tasks",
               "asynctask",
@@ -1750,7 +1750,7 @@
             "open_issues": 84,
             "owner": "javan",
             "repo": "whenever",
-            "stars": 8859,
+            "stars": 8858,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1845,7 +1845,7 @@
             "open_issues": 37,
             "owner": "heartcombo",
             "repo": "simple_form",
-            "stars": 8230,
+            "stars": 8229,
             "topics": [
               "dsl",
               "form-builder",
@@ -1931,11 +1931,11 @@
             "id": 53374,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-31T03:13:56Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-01T13:49:22Z",
+            "open_issues": 13,
             "owner": "kpumuk",
             "repo": "meta-tags",
-            "stars": 2802,
+            "stars": 2801,
             "topics": [
               "meta-tags",
               "opengraph",
@@ -2061,7 +2061,7 @@
             "open_issues": 17,
             "owner": "bkeepers",
             "repo": "dotenv",
-            "stars": 6763,
+            "stars": 6762,
             "topics": [
               "dotenv",
               "ruby"
@@ -2106,7 +2106,7 @@
             "open_issues": 25,
             "owner": "rubyconfig",
             "repo": "config",
-            "stars": 2169,
+            "stars": 2168,
             "topics": [
               "config",
               "configuration",
@@ -2187,7 +2187,7 @@
             "open_issues": 134,
             "owner": "thoughtbot",
             "repo": "administrate",
-            "stars": 6032,
+            "stars": 6031,
             "topics": [
               "admin-dashboard",
               "rails",
@@ -2212,7 +2212,7 @@
             "open_issues": 122,
             "owner": "TrestleAdmin",
             "repo": "trestle",
-            "stars": 1992,
+            "stars": 1991,
             "topics": [
               "admin-dashboard",
               "rails",
@@ -2271,7 +2271,7 @@
             "open_issues": 6,
             "owner": "ankane",
             "repo": "ahoy",
-            "stars": 4480,
+            "stars": 4479,
             "topics": [
               "analytics",
               "events",
@@ -2298,7 +2298,7 @@
             "open_issues": 69,
             "owner": "roidrage",
             "repo": "lograge",
-            "stars": 3572,
+            "stars": 3571,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -2353,7 +2353,7 @@
             "open_issues": 7,
             "owner": "julienXX",
             "repo": "terminal-notifier",
-            "stars": 7300,
+            "stars": 7301,
             "topics": [
               "command-line",
               "notifications",
@@ -2402,7 +2402,7 @@
             "open_issues": 68,
             "owner": "BetterErrors",
             "repo": "better_errors",
-            "stars": 6861,
+            "stars": 6862,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -2468,7 +2468,7 @@
             "open_issues": 2,
             "owner": "ryanb",
             "repo": "letter_opener",
-            "stars": 3842,
+            "stars": 3841,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -2650,11 +2650,11 @@
             "id": 4095287,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:37:14Z",
-            "open_issues": 157,
+            "last_commit": "2026-09-01T09:34:26Z",
+            "open_issues": 158,
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12898,
+            "stars": 12896,
             "topics": [
               "code-formatter",
               "hacktoberfest",
@@ -2828,7 +2828,7 @@
             "open_issues": 22,
             "owner": "teamcapybara",
             "repo": "capybara",
-            "stars": 10173,
+            "stars": 10172,
             "topics": [
               "hacktoberfest"
             ]
@@ -2899,8 +2899,8 @@
             "id": 447184,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-27T21:44:37Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-01T10:13:16Z",
+            "open_issues": 67,
             "owner": "rspec",
             "repo": "rspec-rails",
             "stars": 5271,
@@ -2920,7 +2920,7 @@
             "id": 839336,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-31T16:18:09Z",
+            "last_commit": "2026-09-01T13:16:05Z",
             "open_issues": 1,
             "owner": "simplecov-ruby",
             "repo": "simplecov",
@@ -2979,7 +2979,7 @@
             "open_issues": 11,
             "owner": "travisjeffery",
             "repo": "timecop",
-            "stars": 3425,
+            "stars": 3424,
             "topics": [
               "rails",
               "ruby",
@@ -3096,7 +3096,7 @@
                 "open_issues": 116,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7265,
+                "stars": 7266,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -3127,7 +3127,7 @@
                 "open_issues": 13,
                 "owner": "github",
                 "repo": "secure_headers",
-                "stars": 3228,
+                "stars": 3226,
                 "topics": [
                   "content-security-policy",
                   "cookie",
@@ -3159,7 +3159,7 @@
                 "open_issues": 48,
                 "owner": "rubysec",
                 "repo": "bundler-audit",
-                "stars": 2757,
+                "stars": 2756,
                 "topics": [
                   "bundler-audit",
                   "dependency-checker",
@@ -3200,7 +3200,7 @@
             "open_issues": 74,
             "owner": "capistrano",
             "repo": "capistrano",
-            "stars": 12988,
+            "stars": 12989,
             "topics": [
               "capistrano",
               "deployment",
@@ -3226,7 +3226,7 @@
             "open_issues": 19,
             "owner": "rack",
             "repo": "rack-attack",
-            "stars": 5764,
+            "stars": 5760,
             "topics": [
               "rack",
               "rack-attack",
@@ -3252,7 +3252,7 @@
             "open_issues": 35,
             "owner": "mina-deploy",
             "repo": "mina",
-            "stars": 4355,
+            "stars": 4354,
             "topics": [
               "deployment",
               "mina",
@@ -3279,7 +3279,7 @@
             "open_issues": 0,
             "owner": "ankane",
             "repo": "production_rails",
-            "stars": 2319,
+            "stars": 2320,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -3349,11 +3349,11 @@
             "id": 816197,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-08-31T15:21:48Z",
-            "open_issues": 142,
+            "last_commit": "2026-09-01T12:42:21Z",
+            "open_issues": 145,
             "owner": "errbit",
             "repo": "errbit",
-            "stars": 4271,
+            "stars": 4270,
             "topics": [
               "airbrake",
               "crash-reporting",
@@ -3497,7 +3497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:12:11.030Z",
+    "last_updated": "2026-09-01T14:15:43.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Ruby Gems for Rails development.",

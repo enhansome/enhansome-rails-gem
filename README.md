@@ -36,7 +36,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ### Authorization
 
-* [Pundit](https://github.com/elabs/pundit) ⭐ 8,522 | 🐛 13 | 🌐 Ruby | 📅 2026-08-28 - Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
+* [Pundit](https://github.com/elabs/pundit) ⭐ 8,522 | 🐛 14 | 🌐 Ruby | 📅 2026-08-28 - Pundit provides a set of helpers which guide you in leveraging regular Ruby classes and object oriented design patterns to build a simple, robust and scaleable authorization system.
 * [cancancan](https://github.com/CanCanCommunity/cancancan) ⭐ 5,682 | 🐛 92 | 🌐 Ruby | 📅 2026-09-08 - Continuation of CanCan, the authorization Gem for Ruby on Rails.CanCan is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access. All permissions are defined in a single location (the Ability class) and not duplicated across controllers, views, and database queries.
 * [rolify](https://github.com/RolifyCommunity/rolify) ⭐ 3,174 | 🐛 152 | 🌐 Ruby | 📅 2026-01-24 - Role management library with resource scoping.
 * [acl9](https://github.com/be9/acl9/) ⭐ 848 | 🐛 3 | 🌐 Ruby | 📅 2025-03-26 - Acl9 is a role-based authorization system that provides a concise DSL for securing your Rails application.
@@ -95,13 +95,13 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## API
 
-* [Grape](https://github.com/ruby-grape/grape) ⭐ 10,007 | 🐛 240 | 🌐 Ruby | 📅 2026-09-25 - Microframework to create REST-ful APIs in Ruby.
+* [Grape](https://github.com/ruby-grape/grape) ⭐ 10,007 | 🐛 245 | 🌐 Ruby | 📅 2026-09-26 - Microframework to create REST-ful APIs in Ruby.
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) ⭐ 5,342 | 🐛 190 | 🌐 Ruby | 📅 2025-12-08 - Serializer brings convention over configuration to your JSON generation.
 * [rest-client](https://github.com/rest-client/rest-client) ⭐ 5,211 | 🐛 140 | 🌐 Ruby | 📅 2024-05-19 - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
 * [Jbuilder](https://github.com/rails/jbuilder) ⭐ 4,421 | 🐛 48 | 🌐 Ruby | 📅 2026-06-01 - Jbuilder gives you a simple DSL for declaring JSON structures that beats massaging giant hash structures. This is particularly helpful when the generation process is fraught with conditionals and loops.
 * [has\_scope](https://github.com/plataformatec/has_scope) ⭐ 1,727 | 🐛 3 | 🌐 Ruby | 📅 2026-03-27 - Map incoming controller parameters to named scopes in your resources.
 * Documentation
-  * [Grape Swagger UI](https://github.com/swagger-api/swagger-ui) ⭐ 29,024 | 🐛 1,134 | 🌐 JavaScript | 📅 2026-09-25 - Display documentation that is generated using Grape Swagger.
+  * [Grape Swagger UI](https://github.com/swagger-api/swagger-ui) ⭐ 29,027 | 🐛 1,135 | 🌐 JavaScript | 📅 2026-09-25 - Display documentation that is generated using Grape Swagger.
   * [Grape Swagger](https://github.com/ruby-grape/grape-swagger) ⭐ 1,101 | 🐛 133 | 🌐 Ruby | 📅 2026-09-11 - Autogenerate documentation on Grape API.
   * [apiary](https://apiary.io/) - Work together to quickly design, prototype, document and test APIs.
   * [apiblueprint](https://apiblueprint.org) - API Documentation with powerful tooling.
@@ -113,7 +113,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 ## File Uploading
 
 * [Paperclip](https://github.com/thoughtbot/paperclip) ⚠️ Archived - Easy file attachment management for ActiveRecord.
-* [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) ⭐ 8,772 | 🐛 36 | 🌐 Ruby | 📅 2026-09-26 - Carrierwave is a classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
+* [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) ⭐ 8,772 | 🐛 18 | 🌐 Ruby | 📅 2026-09-27 - Carrierwave is a classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
   * [carrierwave\_backgrounder](https://github.com/lardawge/carrierwave_backgrounder) ⚠️ Archived - Offload CarrierWave's image processing and storage to a background process using Delayed Job, Resque, Sidekiq, Qu, Queue Classic or Girl Friday.
   * [CarrierWave ImageOptimizer](https://github.com/jtescher/carrierwave-imageoptimizer) ⭐ 210 | 🐛 4 | 🌐 Ruby | 📅 2022-03-08 - This gem allows you to simply optimize CarrierWave images via jpegoptim or optipng using the image\_optimizer gem.
   * [CarrierWave Crop](https://github.com/kirtithorat/carrierwave-crop/) ⭐ 93 | 🐛 16 | 🌐 Ruby | 📅 2015-09-08 - Carrierwave extension to crop uploaded images using Jcrop plugin with preview.
@@ -126,8 +126,8 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Searching
 
-* [searchkick](https://github.com/ankane/searchkick) ⭐ 6,719 | 🐛 9 | 🌐 Ruby | 📅 2026-09-17 - Intelligent search made easy with Rails and Elasticsearch.
-* [ransack](https://github.com/activerecord-hackery/ransack) ⭐ 5,859 | 🐛 9 | 🌐 Ruby | 📅 2026-09-22 - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
+* [searchkick](https://github.com/ankane/searchkick) ⭐ 6,720 | 🐛 10 | 🌐 Ruby | 📅 2026-09-17 - Intelligent search made easy with Rails and Elasticsearch.
+* [ransack](https://github.com/activerecord-hackery/ransack) ⭐ 5,859 | 🐛 4 | 🌐 Ruby | 📅 2026-09-27 - Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application.
 * [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) ⭐ 3,083 | 🐛 53 | 🌐 Ruby | 📅 2025-10-08 - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails.
 * [sunspot](https://github.com/sunspot/sunspot) ⭐ 2,978 | 🐛 155 | 🌐 JavaScript | 📅 2026-08-18 - Sunspot is a Ruby library for expressive, powerful interaction with the Solr search engine. Sunspot is built on top of the RSolr library, which provides a low-level interface for Solr interaction; Sunspot provides a simple, intuitive, expressive DSL backed by powerful features for indexing objects and searching for them.
 * [Chewy](https://github.com/toptal/chewy) ⭐ 1,899 | 🐛 6 | 🌐 Ruby | 📅 2026-09-23 - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.
@@ -166,7 +166,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Admin Panel
 
-* [RailsAdmin](https://github.com/sferik/rails_admin) ⭐ 7,956 | 🐛 126 | 🌐 Ruby | 📅 2026-09-26 - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.
+* [RailsAdmin](https://github.com/sferik/rails_admin) ⭐ 7,956 | 🐛 110 | 🌐 Ruby | 📅 2026-09-26 - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data.
 * [administrate](https://github.com/thoughtbot/administrate) ⭐ 6,032 | 🐛 135 | 🌐 JavaScript | 📅 2026-09-23 - A Rails engine that helps you put together a super-flexible admin dashboard.
 * [Trestle](https://github.com/TrestleAdmin/trestle) ⭐ 1,992 | 🐛 122 | 🌐 Ruby | 📅 2025-09-25 - A modern, responsive admin framework for Ruby on Rails
 * [ActiveAdmin](http://activeadmin.info) - ActiveAdmin is a administration framework for Ruby on Rails applications.
@@ -181,7 +181,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Debug
 
-* [terminal-notifier](https://github.com/julienXX/terminal-notifier) ⭐ 7,339 | 🐛 10 | 🌐 Objective-C | 📅 2026-08-30 - terminal-notifier is a command-line tool to send Mac OS X User Notifications, which are available in Mac OS X 10.8 and higher.
+* [terminal-notifier](https://github.com/julienXX/terminal-notifier) ⭐ 7,339 | 🐛 11 | 🌐 Objective-C | 📅 2026-08-30 - terminal-notifier is a command-line tool to send Mac OS X User Notifications, which are available in Mac OS X 10.8 and higher.
 * [Better Errors](https://github.com/charliesome/better_errors) ⭐ 6,861 | 🐛 68 | 🌐 Ruby | 📅 2024-07-09 - Better errors replaces the standard Rails error page with a much better and more useful error page.
   * If you would like to use Better Errors' advanced features (REPL, local/instance variable inspection, pretty stack frame names), you need to add the [binding\_ \_of\_\_caller](https://github.com/banister/binding_of_caller) ⭐ 672 | 🐛 3 | 🌐 Ruby | 📅 2026-02-15.
 * [awesome\_print](https://github.com/awesome-print/awesome_print) ⭐ 4,075 | 🐛 110 | 🌐 Ruby | 📅 2024-08-15 - Awesome Print is a Ruby library that pretty prints Ruby objects in full color exposing their internal structure with proper indentation.
@@ -197,7 +197,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Coding Style
 
-* [RuboCop](https://github.com/bbatsov/rubocop) ⭐ 12,908 | 🐛 147 | 🌐 Ruby | 📅 2026-09-26 - Rubocop is a Ruby static code analyzer. Out of the box it will enforce many of the guidelines outlined in the community [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,548 | 🐛 73 | 📅 2026-07-20.
+* [RuboCop](https://github.com/bbatsov/rubocop) ⭐ 12,909 | 🐛 144 | 🌐 Ruby | 📅 2026-09-26 - Rubocop is a Ruby static code analyzer. Out of the box it will enforce many of the guidelines outlined in the community [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,548 | 🐛 74 | 📅 2026-07-20.
 * [Pronto](https://github.com/mmozuras/pronto) ⭐ 2,672 | 🐛 15 | 🌐 Ruby | 📅 2026-08-30 - Quick automated code review of your changes
 * [Metric Fu](https://github.com/metricfu/metric_fu) ⭐ 627 | 🐛 31 | 🌐 Ruby | 📅 2024-02-27 - A fist full of code metrics
 * [Rails Best Practice](https://github.com/railsbp/rails_best_practices) - Rails best practice is a code metric tool to check the quality of rails codes.
@@ -222,13 +222,13 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ### Security
 
-* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,273 | 🐛 114 | 🌐 Ruby | 📅 2026-09-25 - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+* [brakeman](https://github.com/presidentbeef/brakeman) ⭐ 7,272 | 🐛 114 | 🌐 Ruby | 📅 2026-09-25 - Brakeman is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
 * [Secure Headers](https://github.com/twitter/secureheaders) ⭐ 3,228 | 🐛 13 | 🌐 Ruby | 📅 2026-09-23 -  Secure Headers will automatically apply several headers that are related to security.
-* [bundle-audit](https://github.com/rubysec/bundler-audit) ⭐ 2,760 | 🐛 51 | 🌐 Ruby | 📅 2026-09-25 - bundler-audit is a patch-level verification tool for Bundler which checks for vulnerable versions of gems and insecure gem sources.
+* [bundle-audit](https://github.com/rubysec/bundler-audit) ⭐ 2,760 | 🐛 48 | 🌐 Ruby | 📅 2026-09-27 - bundler-audit is a patch-level verification tool for Bundler which checks for vulnerable versions of gems and insecure gem sources.
 
 ## Production
 
-* [Capistrano](https://github.com/capistrano/capistrano) ⭐ 13,004 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19 - Remote multi-server automation tool.
+* [Capistrano](https://github.com/capistrano/capistrano) ⭐ 13,005 | 🐛 74 | 🌐 Ruby | 📅 2026-07-19 - Remote multi-server automation tool.
 * [Rack Attack](https://github.com/kickstarter/rack-attack) ⭐ 5,764 | 🐛 20 | 🌐 Ruby | 📅 2026-09-08 - Rack middleware to blocking & throttling.
 * [Mina](https://github.com/mina-deploy/mina) ⭐ 4,353 | 🐛 35 | 🌐 Ruby | 📅 2024-08-01 - fast deployer and server automation tool.
 * [production\_rails](https://github.com/ankane/production_rails) ⭐ 2,324 | 🐛 0 | 📅 2026-03-31 - Best practices for running Rails in production.
@@ -237,7 +237,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Error Logging
 
-* [Errbit](https://github.com/errbit/errbit) ⭐ 4,268 | 🐛 145 | 🌐 Ruby | 📅 2026-09-23 - Open source notifier gem compliant with Airbrake.
+* [Errbit](https://github.com/errbit/errbit) ⭐ 4,268 | 🐛 146 | 🌐 Ruby | 📅 2026-09-23 - Open source notifier gem compliant with Airbrake.
 * [Airbrake](https://github.com/airbrake/airbrake) ⭐ 984 | 🐛 21 | 🌐 Ruby | 📅 2024-12-21 - Notifier gem for integrating apps with Airbrake
 * [Rollbar](https://github.com/rollbar/rollbar-gem) ⭐ 485 | 🐛 44 | 🌐 Ruby | 📅 2026-05-06 - Exception tracking and logging from Ruby to Rollbar.
 
@@ -255,4 +255,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._

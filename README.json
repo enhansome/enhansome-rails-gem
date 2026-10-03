@@ -124,7 +124,7 @@
                 "open_issues": 55,
                 "owner": "Sorcery",
                 "repo": "sorcery",
-                "stars": 1463,
+                "stars": 1462,
                 "topics": [
                   "authentication",
                   "rails",
@@ -1116,7 +1116,7 @@
             "open_issues": 140,
             "owner": "rest-client",
             "repo": "rest-client",
-            "stars": 5212,
+            "stars": 5213,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1181,10 +1181,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T23:03:28Z",
-                "open_issues": 1138,
+                "open_issues": 1139,
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 29027,
+                "stars": 29029,
                 "topics": [
                   "hacktoberfest",
                   "oas",
@@ -1338,7 +1338,7 @@
             "id": 47087,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-09-27T08:35:13Z",
+            "last_commit": "2026-10-03T11:40:47Z",
             "open_issues": 18,
             "owner": "carrierwaveuploader",
             "repo": "carrierwave",
@@ -1845,7 +1845,7 @@
             "open_issues": 37,
             "owner": "heartcombo",
             "repo": "simple_form",
-            "stars": 8228,
+            "stars": 8229,
             "topics": [
               "dsl",
               "form-builder",
@@ -2650,8 +2650,8 @@
             "id": 4095287,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T17:41:50Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-03T05:45:15Z",
+            "open_issues": 155,
             "owner": "rubocop",
             "repo": "rubocop",
             "stars": 12911,
@@ -3497,7 +3497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:44.003Z",
+    "last_updated": "2026-10-03T14:23:52.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Ruby Gems for Rails development.",

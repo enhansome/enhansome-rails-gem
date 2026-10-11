@@ -21,7 +21,7 @@
                 "open_issues": 236,
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24356,
+                "stars": 24355,
                 "topics": [
                   "authentication",
                   "devise",
@@ -180,7 +180,7 @@
                 "open_issues": 92,
                 "owner": "CanCanCommunity",
                 "repo": "cancancan",
-                "stars": 5683,
+                "stars": 5682,
                 "topics": [
                   "authorization",
                   "cancancan",
@@ -1061,11 +1061,11 @@
             "id": 812393,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-03T23:04:28Z",
-            "open_issues": 241,
+            "last_commit": "2026-10-11T08:31:32Z",
+            "open_issues": 245,
             "owner": "ruby-grape",
             "repo": "grape",
-            "stars": 10010,
+            "stars": 10012,
             "topics": [
               "api",
               "grape",
@@ -1338,7 +1338,7 @@
             "id": 47087,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-10-10T13:39:57Z",
+            "last_commit": "2026-10-11T11:57:30Z",
             "open_issues": 7,
             "owner": "carrierwaveuploader",
             "repo": "carrierwave",
@@ -1384,7 +1384,7 @@
             "open_issues": 1,
             "owner": "shrinerb",
             "repo": "shrine",
-            "stars": 3285,
+            "stars": 3284,
             "topics": [
               "attachment",
               "background-jobs",
@@ -1508,7 +1508,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-09T17:55:17Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "activerecord-hackery",
             "repo": "ransack",
             "stars": 5859,
@@ -1661,7 +1661,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-05-27T14:26:21Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "sidekiq-cron",
                 "repo": "sidekiq-cron",
                 "stars": 1945,
@@ -1692,7 +1692,7 @@
             "open_issues": 18,
             "owner": "sidekiq",
             "repo": "sidekiq",
-            "stars": 13559,
+            "stars": 13558,
             "topics": [
               "background-jobs",
               "jobs",
@@ -1968,7 +1968,7 @@
             "open_issues": 83,
             "owner": "ryanb",
             "repo": "nested_form",
-            "stars": 1781,
+            "stars": 1780,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -2163,7 +2163,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-08T13:37:02Z",
-            "open_issues": 111,
+            "open_issues": 109,
             "owner": "railsadminteam",
             "repo": "rails_admin",
             "stars": 7957,
@@ -2650,8 +2650,8 @@
             "id": 4095287,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-10T11:00:14Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-11T08:04:07Z",
+            "open_issues": 167,
             "owner": "rubocop",
             "repo": "rubocop",
             "stars": 12912,
@@ -2920,7 +2920,7 @@
             "id": 839336,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-06T15:30:21Z",
+            "last_commit": "2026-10-10T21:57:16Z",
             "open_issues": 0,
             "owner": "simplecov-ruby",
             "repo": "simplecov",
@@ -3096,7 +3096,7 @@
                 "open_issues": 118,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7278,
+                "stars": 7279,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -3159,7 +3159,7 @@
                 "open_issues": 48,
                 "owner": "rubysec",
                 "repo": "bundler-audit",
-                "stars": 2762,
+                "stars": 2763,
                 "topics": [
                   "bundler-audit",
                   "dependency-checker",
@@ -3200,7 +3200,7 @@
             "open_issues": 74,
             "owner": "capistrano",
             "repo": "capistrano",
-            "stars": 13010,
+            "stars": 13012,
             "topics": [
               "capistrano",
               "deployment",
@@ -3252,7 +3252,7 @@
             "open_issues": 36,
             "owner": "mina-deploy",
             "repo": "mina",
-            "stars": 4352,
+            "stars": 4350,
             "topics": [
               "deployment",
               "mina",
@@ -3279,7 +3279,7 @@
             "open_issues": 0,
             "owner": "ankane",
             "repo": "production_rails",
-            "stars": 2325,
+            "stars": 2326,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -3497,7 +3497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:32:09.787Z",
+    "last_updated": "2026-10-11T15:54:42.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Ruby Gems for Rails development.",
@@ -3509,7 +3509,7 @@
       "open_issues": 27,
       "owner": "hothero",
       "repo": "awesome-rails-gem",
-      "stars": 2805,
+      "stars": 2806,
       "topics": []
     },
     "original_repository_sha": "608ff8fa505ded1402d2bda347d6859e116b867b",

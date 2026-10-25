@@ -21,7 +21,7 @@
                 "open_issues": 243,
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24354,
+                "stars": 24356,
                 "topics": [
                   "authentication",
                   "devise",
@@ -47,7 +47,7 @@
                 "open_issues": 37,
                 "owner": "thoughtbot",
                 "repo": "clearance",
-                "stars": 3735,
+                "stars": 3733,
                 "topics": [
                   "clearance",
                   "rails",
@@ -154,7 +154,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-10-16T11:27:54Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "varvet",
                 "repo": "pundit",
                 "stars": 8520,
@@ -401,7 +401,7 @@
             "open_issues": 9,
             "owner": "paper-trail-gem",
             "repo": "paper_trail",
-            "stars": 7030,
+            "stars": 7029,
             "topics": [
               "activerecord",
               "audit",
@@ -455,7 +455,7 @@
             "open_issues": 170,
             "owner": "aasm",
             "repo": "aasm",
-            "stars": 5231,
+            "stars": 5232,
             "topics": [
               "aasm",
               "activerecord",
@@ -607,10 +607,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-03-19T14:22:43Z",
-            "open_issues": 7,
+            "open_issues": 9,
             "owner": "salsify",
             "repo": "goldiloader",
-            "stars": 1674,
+            "stars": 1675,
             "topics": [
               "activerecord",
               "eager-loading",
@@ -915,7 +915,7 @@
             "open_issues": 16,
             "owner": "galetahub",
             "repo": "ckeditor",
-            "stars": 2223,
+            "stars": 2222,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1091,7 +1091,7 @@
             "open_issues": 190,
             "owner": "rails-api",
             "repo": "active_model_serializers",
-            "stars": 5341,
+            "stars": 5342,
             "topics": [
               "json",
               "resource-serializer",
@@ -1116,7 +1116,7 @@
             "open_issues": 141,
             "owner": "rest-client",
             "repo": "rest-client",
-            "stars": 5212,
+            "stars": 5213,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1180,11 +1180,11 @@
                 "id": 2055965,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T14:24:49Z",
-                "open_issues": 1148,
+                "last_commit": "2026-10-24T23:02:29Z",
+                "open_issues": 1149,
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 29042,
+                "stars": 29046,
                 "topics": [
                   "hacktoberfest",
                   "oas",
@@ -1342,7 +1342,7 @@
             "open_issues": 7,
             "owner": "carrierwaveuploader",
             "repo": "carrierwave",
-            "stars": 8766,
+            "stars": 8767,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1384,7 +1384,7 @@
             "open_issues": 0,
             "owner": "shrinerb",
             "repo": "shrine",
-            "stars": 3284,
+            "stars": 3283,
             "topics": [
               "attachment",
               "background-jobs",
@@ -1438,7 +1438,7 @@
             "open_issues": 26,
             "owner": "refile",
             "repo": "refile",
-            "stars": 2434,
+            "stars": 2433,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1511,7 +1511,7 @@
             "open_issues": 3,
             "owner": "activerecord-hackery",
             "repo": "ransack",
-            "stars": 5858,
+            "stars": 5859,
             "topics": [
               "activerecord",
               "rails",
@@ -1567,11 +1567,11 @@
             "id": 62509,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T07:08:33Z",
-            "open_issues": 154,
+            "last_commit": "2026-10-24T18:21:28Z",
+            "open_issues": 153,
             "owner": "sunspot",
             "repo": "sunspot",
-            "stars": 2978,
+            "stars": 2977,
             "topics": [
               "ruby",
               "solr",
@@ -1750,7 +1750,7 @@
             "open_issues": 81,
             "owner": "javan",
             "repo": "whenever",
-            "stars": 8853,
+            "stars": 8854,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -2162,11 +2162,11 @@
             "id": 810796,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-24T06:58:41Z",
-            "open_issues": 93,
+            "last_commit": "2026-10-25T08:49:01Z",
+            "open_issues": 92,
             "owner": "railsadminteam",
             "repo": "rails_admin",
-            "stars": 7957,
+            "stars": 7958,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -2187,7 +2187,7 @@
             "open_issues": 135,
             "owner": "thoughtbot",
             "repo": "administrate",
-            "stars": 6033,
+            "stars": 6034,
             "topics": [
               "admin-dashboard",
               "rails",
@@ -2353,7 +2353,7 @@
             "open_issues": 12,
             "owner": "julienXX",
             "repo": "terminal-notifier",
-            "stars": 7361,
+            "stars": 7362,
             "topics": [
               "command-line",
               "notifications",
@@ -2650,11 +2650,11 @@
             "id": 4095287,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-23T17:10:53Z",
-            "open_issues": 173,
+            "last_commit": "2026-10-25T02:43:18Z",
+            "open_issues": 167,
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12915,
+            "stars": 12917,
             "topics": [
               "code-formatter",
               "hacktoberfest",
@@ -2851,7 +2851,7 @@
             "open_issues": 62,
             "owner": "thoughtbot",
             "repo": "factory_bot",
-            "stars": 8167,
+            "stars": 8166,
             "topics": [
               "factories",
               "factory-bot",
@@ -2882,7 +2882,7 @@
             "open_issues": 87,
             "owner": "vcr",
             "repo": "vcr",
-            "stars": 6079,
+            "stars": 6080,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -2903,7 +2903,7 @@
             "open_issues": 61,
             "owner": "rspec",
             "repo": "rspec-rails",
-            "stars": 5273,
+            "stars": 5274,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -2920,8 +2920,8 @@
             "id": 839336,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-24T12:24:06Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-24T20:51:55Z",
+            "open_issues": 3,
             "owner": "simplecov-ruby",
             "repo": "simplecov",
             "stars": 4928,
@@ -3096,7 +3096,7 @@
                 "open_issues": 119,
                 "owner": "presidentbeef",
                 "repo": "brakeman",
-                "stars": 7285,
+                "stars": 7287,
                 "topics": [
                   "brakeman",
                   "rails",
@@ -3200,7 +3200,7 @@
             "open_issues": 74,
             "owner": "capistrano",
             "repo": "capistrano",
-            "stars": 13014,
+            "stars": 13017,
             "topics": [
               "capistrano",
               "deployment",
@@ -3226,7 +3226,7 @@
             "open_issues": 22,
             "owner": "rack",
             "repo": "rack-attack",
-            "stars": 5760,
+            "stars": 5761,
             "topics": [
               "rack",
               "rack-attack",
@@ -3497,7 +3497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:31:43.547Z",
+    "last_updated": "2026-10-25T13:52:02.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Ruby Gems for Rails development.",

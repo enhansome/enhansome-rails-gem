@@ -21,7 +21,7 @@
                 "open_issues": 251,
                 "owner": "heartcombo",
                 "repo": "devise",
-                "stars": 24348,
+                "stars": 24347,
                 "topics": [
                   "authentication",
                   "devise",
@@ -177,7 +177,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-10-20T07:42:59Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "coorasse",
                 "repo": "cancancan",
                 "stars": 5679,
@@ -514,7 +514,7 @@
             "open_issues": 106,
             "owner": "rubysherpas",
             "repo": "paranoia",
-            "stars": 2914,
+            "stars": 2913,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -606,8 +606,8 @@
             "id": 20772066,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-10T21:10:30Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-13T18:19:18Z",
+            "open_issues": 7,
             "owner": "salsify",
             "repo": "goldiloader",
             "stars": 1671,
@@ -752,8 +752,8 @@
             "id": 1408200,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-10T22:59:42Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-14T03:46:43Z",
+            "open_issues": 2,
             "owner": "cedric",
             "repo": "custom_counter_cache",
             "stars": 60,
@@ -1116,7 +1116,7 @@
             "open_issues": 141,
             "owner": "rest-client",
             "repo": "rest-client",
-            "stars": 5211,
+            "stars": 5210,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1137,7 +1137,7 @@
             "open_issues": 50,
             "owner": "rails",
             "repo": "jbuilder",
-            "stars": 4420,
+            "stars": 4419,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1181,10 +1181,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T11:30:24Z",
-                "open_issues": 1165,
+                "open_issues": 1166,
                 "owner": "swagger-api",
                 "repo": "swagger-ui",
-                "stars": 29082,
+                "stars": 29083,
                 "topics": [
                   "hacktoberfest",
                   "oas",
@@ -1257,7 +1257,7 @@
             "open_issues": 53,
             "owner": "thoughtbot",
             "repo": "paperclip",
-            "stars": 9013,
+            "stars": 9012,
             "topics": []
           },
           "first_seen": "2026-08-28T20:58:19.273Z"
@@ -1507,7 +1507,7 @@
             "id": 1548802,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-11T11:50:59Z",
+            "last_commit": "2026-11-14T11:09:35Z",
             "open_issues": 1,
             "owner": "activerecord-hackery",
             "repo": "ransack",
@@ -1813,7 +1813,7 @@
             "open_issues": 12,
             "owner": "jmettraux",
             "repo": "rufus-scheduler",
-            "stars": 2445,
+            "stars": 2444,
             "topics": [
               "cron",
               "ruby",
@@ -1842,10 +1842,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-04-01T23:20:59Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "heartcombo",
             "repo": "simple_form",
-            "stars": 8222,
+            "stars": 8223,
             "topics": [
               "dsl",
               "form-builder",
@@ -2061,7 +2061,7 @@
             "open_issues": 19,
             "owner": "bkeepers",
             "repo": "dotenv",
-            "stars": 6770,
+            "stars": 6771,
             "topics": [
               "dotenv",
               "ruby"
@@ -2494,7 +2494,7 @@
                 "open_issues": 51,
                 "owner": "deivid-rodriguez",
                 "repo": "pry-byebug",
-                "stars": 2032,
+                "stars": 2033,
                 "topics": [
                   "debugger",
                   "pry",
@@ -2517,7 +2517,7 @@
             "open_issues": 101,
             "owner": "deivid-rodriguez",
             "repo": "byebug",
-            "stars": 3354,
+            "stars": 3355,
             "topics": [
               "byebug",
               "debugger",
@@ -2650,11 +2650,11 @@
             "id": 4095287,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-13T16:10:41Z",
-            "open_issues": 169,
+            "last_commit": "2026-11-14T15:27:22Z",
+            "open_issues": 170,
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12928,
+            "stars": 12926,
             "topics": [
               "code-formatter",
               "hacktoberfest",
@@ -2682,7 +2682,7 @@
             "open_issues": 16,
             "owner": "prontolabs",
             "repo": "pronto",
-            "stars": 2671,
+            "stars": 2670,
             "topics": [
               "automated-analysis",
               "automated-review",
@@ -3155,8 +3155,8 @@
                 "id": 8133216,
                 "language": "Ruby",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T13:19:15Z",
-                "open_issues": 49,
+                "last_commit": "2026-11-14T05:37:45Z",
+                "open_issues": 51,
                 "owner": "rubysec",
                 "repo": "bundler-audit",
                 "stars": 2763,
@@ -3200,7 +3200,7 @@
             "open_issues": 75,
             "owner": "capistrano",
             "repo": "capistrano",
-            "stars": 13012,
+            "stars": 13013,
             "topics": [
               "capistrano",
               "deployment",
@@ -3497,7 +3497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:19:59.811Z",
+    "last_updated": "2026-11-14T15:59:09.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome Ruby Gems for Rails development.",
